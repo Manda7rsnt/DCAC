@@ -49,6 +49,12 @@
 header{
     background-image: url("textures/light_wool.png");
 }
+        <!---->
+        <!---->
+        
+        <!---->
+        <!---->
+        
 </style>
 
 <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600' rel='stylesheet' type='text/css'>
@@ -475,6 +481,7 @@ header{
                     <div class="col-lg-4 col-md-4"><!-- recent news wrapper -->
 
                         <div class="col-padded col-shaded"><!-- inner custom column -->
+                            <div class="ticker">
 
                             <ul class="list-unstyled clear-margins"><!-- widgets -->
 
@@ -482,7 +489,7 @@ header{
 
                                     <h1 class="title-widget">What's New @ DCAC</h1>
 
-                                    <ul class="list-unstyled">
+                                    <ul class="list-unstyled" id="ticker">
 
                                         <li class="recent-news-wrap">
 
@@ -520,6 +527,7 @@ header{
                                 </li><!-- widgets list end -->
 
                             </ul><!-- widgets end -->
+                            </div>
 
                         </div><!-- inner custom column end -->
 
@@ -676,6 +684,19 @@ header{
 
             <!-- jQuery -->
             <script src="jQuery/jquery-2.1.1.min.js"></script>
+               
+                <!--Script for Ticker-->
+            <script type="text/javascript">
+function ticker() {
+    $('#ticker li:first').slideUp(function() {
+        $(this).appendTo($('#ticker')).slideDown();
+    });
+}
+setInterval(ticker, 3000);
+</script>
+                 <!--Script for Ticker-->
+                 
+                 
             <script src="jQuery/jquery-migrate-1.2.1.min.js"></script>
 
             <!-- Bootstrap -->
