@@ -49,6 +49,15 @@
 header{
     background-image: url("textures/light_wool.png");
 }
+
+.bg-color{
+  background-color: #4D7596;
+}
+
+li a:link, a:visited {
+    color: #B3D3EF;
+    text-decoration: none;
+}
         <!---->
         <!---->
         
@@ -102,7 +111,7 @@ header{
 
                 <!--******************************************NAVBAR********************************************-->
 
-                <div class="navbar navbar-inverse ">
+                <div class="navbar bg-color">
                     <div class="container">
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle = "collapse" data-target = ".navbar-collapse">
