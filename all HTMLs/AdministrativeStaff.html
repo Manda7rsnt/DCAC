@@ -11,13 +11,46 @@
             <link  rel='stylesheet' href = "Navbar-element-second-pageCSS/layout.css" type='text/css'>
             
             <style>
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-th, td {
-    padding: 5px;
-}
+table{
+	width:100%;
+	border-collapse:collapse;
+	table-layout:auto;
+	vertical-align:top;
+	margin-bottom:15px;
+	border:0px solid #CCCCCC;
+	}
+
+table thead th{
+	color:#FFFFFF;
+	background-color:#645951;
+	border:1px solid #CCCCCC;
+	border-collapse:collapse;
+	text-align:center;
+	table-layout:auto;
+	vertical-align:middle;
+	}
+
+table tbody td{
+	vertical-align:top;
+	border-collapse:collapse;
+	border-left:0px solid #CCCCCC;
+	border-right:0px solid #CCCCCC;
+	}
+	
+table thead th, table tbody td{
+	padding:8px;
+	border-collapse:collapse;
+	}
+
+table tbody tr.light{
+	color:#666666;
+	background-color:#FDFFE1;
+	}
+
+table tbody tr.dark{
+	color:#666666;
+	background-color:#FBFFC4;
+	}
 </style>
             
       </head>
@@ -28,7 +61,7 @@ th, td {
               General Office
          </p>
           <div class="container">
-            <table class ="table table-striped table-hover">
+            <table class ="table table-striped table-hover" cellpadding="1" cellspacing="1" border="1">
                <thead>
                 <tr>
                  <th>S.No</th>
@@ -63,7 +96,7 @@ th, td {
                 
                  <p>Principal's Office</p>  
                  <div class="container">
-            <table class ="table table-striped table-hover">
+            <table class ="table table-striped table-hover" cellpadding="1" cellspacing="1" border="1">
                <thead>
                 <tr>
                  <th>S.No</th>
@@ -79,7 +112,7 @@ th, td {
                
                 <p>Accounts</p>
                 <div class="container">
-            <table class ="table table-striped table-hover">
+            <table class ="table table-striped table-hover" cellpadding="1" cellspacing="1" border="1">
                <thead>
                 <tr>
                  <th>S.No</th>
@@ -100,18 +133,22 @@ th, td {
         </div>
                <p>Library</p>
                 <div class="container">
-            <table class ="table table-striped table-hover">
+            <table class ="table table-striped table-hover" cellpadding="1" cellspacing="1" border="1">
+               <thead>
                 <tr>
                  <th>S.No</th>
                  <th>Name</th>		
                  <th>Designation</th>
                 </tr>
+                       </thead>
+                       <tbody>
                         <tr><td>1.</td><td>	SH. P.C. RATHORE</td><td>	LIBRARIAN </td></tr>
                         <tr><td>2.</td><td>	SH. JAI PRAKASH SHARMA</td><td>	PROFESSIONAL ASSISTANT</td></tr>
                         <tr><td>3.</td><td>	MRS. POONAM RANI</td><td>	SEMI PROFESSIONAL ASSISTANT</td></tr>
                         <tr><td>4.</td><td>	SH. S. N. TRIPATHI</td><td>	J.L.I.A.</td></tr>
                         <tr><td>5.</td><td>	SH. DHARMA NAND</td><td>	LIBRARY ATTENDANT</td></tr>
                         <tr><td>6.</td><td>	SH. MANOJ KUMAR</td><td>	MTS-LIBRARY ATTENDANT</td></tr>
+                           </tbody>
                             
            </table>
         </div>
