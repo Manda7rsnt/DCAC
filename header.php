@@ -20,6 +20,11 @@
     </head>
     
     <style>
+
+.styledrow{
+    
+    padding: 30px 0px 30px 0px;
+}
   .college{
   text-align: left;
   color: #3C566C;
@@ -192,3 +197,5 @@ li a:link, a:visited {
                         </div>
                     </div>
                 </div>
+
+           
