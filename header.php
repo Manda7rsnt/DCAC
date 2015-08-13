@@ -56,11 +56,11 @@ header{
 }
 
 .bg-color{
-  background-color: #4D7596;
+  background-color: #22313F;
 }
 
 li a:link, a:visited {
-    color: #B3D3EF;
+    color:  #CD5C5C;
     text-decoration: none;
 }
         <!---->
@@ -130,11 +130,11 @@ li a:link, a:visited {
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle = "dropdown">Home<b class="caret"></b></a>
+                                    <a href="index-new.php" class="dropdown-toggle" data-toggle = "dropdown">Home<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li> <a href = "all HTMLs/Pricipal'sDesk.html" > Principal's Desk</a></li>
-                                        <li> <a href = "all HTMLs/HTMLs/history.html" > History</a></li>
-                                        <li> <a href = "all HTMLs/life@DCAC.html" > Life at DCAC</a></li>
+                                        <li> <a href = "PrincipalDesk.php" > Principal's Desk</a></li>
+                                        <li> <a href = "history.php" > History</a></li>
+                                        <li> <a href = "lifeatdcac.php" > Life at DCAC</a></li>
                                         <li> <a href = "allPDFs/AnnualReport.pdf" > Annual Report</a></li>
 
                                     </ul>
@@ -142,9 +142,9 @@ li a:link, a:visited {
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle = "dropdown">People<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li> <a href = "all HTMLs/AdministrativeStaff.html" > Administrative Staff</a></li>
-                                        <li> <a href = "all HTMLs/faculty.html" > Faculty</a></li>
-                                        <li> <a href = "all HTMLs/student.html" > Student</a></li>
+                                        <li> <a href="AdministrativeStaff.php" > Administrative Staff</a></li>
+                                        <li> <a href = "faculty.php" > Faculty</a></li>
+                                        <li> <a href = "student.php" > Student</a></li>
 
                                     </ul>
                                 </li>

@@ -37,9 +37,9 @@
 
                                                 <ul class="list-unstyled list-inline">
 
-                                                    <li><a href="index.html#" title="Contact us"><i class="fa fa-envelope"></i></a></li>
-                                                    <li><a href="index.html#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="index.html#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                                                    <li><a href="#" title="Contact us"><i class="fa fa-envelope"></i></a></li>
+                                                    <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                                                    <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 
                                                 </ul>
 
@@ -64,11 +64,11 @@
                                         <h1 class="title-widget">Useful links</h1>
 
                                         <ul>
-                                            <li><a href="index.html#" title="menu item">Admissions</a></li>
-                                            <li><a href="index.html#" title="menu item">Academics</a></li>
-                                            <li><a href="index.html#" title="menu item">Faculties</a></li>
-                                            <li><a href="index.html#" title="menu item">Job Opportunities - Application</a></li>
-                                            <li><a href="index.html#" title="menu item">Farewell</a></li>
+                                            <li><a href="#" title="menu item">Admissions</a></li>
+                                            <li><a href="#" title="menu item">Academics</a></li>
+                                            <li><a href="#" title="menu item">Faculties</a></li>
+                                            <li><a href="#" title="menu item">Job Opportunities - Application</a></li>
+                                            <li><a href="#" title="menu item">Farewell</a></li>
                                         </ul>
 
                                     </li>
@@ -92,14 +92,14 @@
                                         <h1 class="title-widget">Gallery</h1>
 
                                         <ul class="k-flickr-photos list-unstyled">
-                                            <li><a href="index.html#" title="Flickr photo"><img src="img/flickr-1.jpg" alt="Photo 1" /></a></li>
-                                            <li><a href="index.html#" title="Flickr photo"><img src="img/flickr-2.jpg" alt="Photo 2" /></a></li>
-                                            <li><a href="index.html#" title="Flickr photo"><img src="img/flickr-3.jpg" alt="Photo 3" /></a></li>
-                                            <li><a href="index.html#" title="Flickr photo"><img src="img/flickr-4.jpg" alt="Photo 4" /></a></li>
-                                            <li><a href="index.html#" title="Flickr photo"><img src="img/flickr-5.jpg" alt="Photo 5" /></a></li>
-                                            <li><a href="index.html#" title="Flickr photo"><img src="img/flickr-6.jpg" alt="Photo 6" /></a></li>
-                                            <li><a href="index.html#" title="Flickr photo"><img src="img/flickr-7.jpg" alt="Photo 7" /></a></li>
-                                            <li><a href="index.html#" title="Flickr photo"><img src="img/flickr-8.jpg" alt="Photo 8" /></a></li>
+                                            <li><a href="#" title="Flickr photo"><img src="img/flickr-1.jpg" alt="Photo 1" /></a></li>
+                                            <li><a href="#" title="Flickr photo"><img src="img/flickr-2.jpg" alt="Photo 2" /></a></li>
+                                            <li><a href="#" title="Flickr photo"><img src="img/flickr-3.jpg" alt="Photo 3" /></a></li>
+                                            <li><a href="#" title="Flickr photo"><img src="img/flickr-4.jpg" alt="Photo 4" /></a></li>
+                                            <li><a href="#" title="Flickr photo"><img src="img/flickr-5.jpg" alt="Photo 5" /></a></li>
+                                            <li><a href="#" title="Flickr photo"><img src="img/flickr-6.jpg" alt="Photo 6" /></a></li>
+                                            <li><a href="#" title="Flickr photo"><img src="img/flickr-7.jpg" alt="Photo 7" /></a></li>
+                                            <li><a href="#" title="Flickr photo"><img src="img/flickr-8.jpg" alt="Photo 8" /></a></li>
                                         </ul>
 
                                     </li>
