@@ -85,12 +85,12 @@ li a:link, a:visited {
             
             <div class='header-main container'>
                 <div class='logo col-md-2 col-sm-2'>
-                    <img src="img/logo.gif">
+                    <a href="index-new.php"><img src="img/logo.gif"></a>
                     
                 </div><!--//logo-->           
                 <div class='col-md-8 col-sm-8'>
-                    <p class='college'>Delhi College of Arts and Commerce</h1> 
-                        <p class='university'>University of Delhi</h1>
+                    <p class='college'><a href="index-new.php">Delhi College of Arts and Commerce</a></h1> 
+                        <p class='university'><a href = "index-new.php">University of Delhi</a></h1>
                     
                     
                 <div class='col-md-2 col-sm-2'>
@@ -151,11 +151,11 @@ li a:link, a:visited {
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle = "dropdown">Academics<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li> <a href = "#" > Admission</a></li>
-                                        <li> <a href = "#" > Courses</a></li>
-                                        <li> <a href = "#" > Add On Courses</a></li>
-                                        <li> <a href = "#" > Academic Calender</a></li>
-                                        <li> <a href = "#" > Time Table</a></li>
+                                        <li> <a href = "admissions.php" > Admission</a></li>
+                                        <li> <a href = "courses.php" > Courses</a></li>
+                                        <li> <a href = "addoncourses.php" > Add On Courses</a></li>
+                                        <li> <a href = "all PDFs/" > Academic Calender</a></li>
+                                        <li> <a href = "timetable.php" > Time Table</a></li>
                                         <li> <a href = "#" > Attendance</a></li>
 
                                     </ul>
@@ -182,10 +182,10 @@ li a:link, a:visited {
                                     </ul>
                                 </li>
 
-                                <li><a href="all HTMLs/Righttoinformation.html">Right to Information</a></li>
+                                <li><a href="RightToInformation.php">Right to Information</a></li>
 
-                                <li><a href="all HTMLs/Placement.html">Placement</a></li>
-                                <li><a href="#">Alumni</a></li>
+                                <li><a href="placement.php">Placement</a></li>
+                                <li><a href="alumni.php">Alumni</a></li>
                                 <li><a href="#" class="dropdown-toggle" data-toggle = "dropdown">Login<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
                                         <li> <a href = "allPDFs/Guidelines.pdf" > Faculty</a></li>
