@@ -156,7 +156,7 @@ li a:link, a:visited {
                                         <li> <a href = "addoncourses.php" > Add On Courses</a></li>
                                         <li> <a href = "all PDFs/" > Academic Calender</a></li>
                                         <li> <a href = "timetable.php" > Time Table</a></li>
-                                        <li> <a href = "#" > Attendance</a></li>
+                                        <li> <a href = "attendance.php" > Attendance</a></li>
 
                                     </ul>
                                 </li>

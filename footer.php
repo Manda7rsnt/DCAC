@@ -22,9 +22,12 @@
                                             <span class="m-contact-street" itemprop="street-address">Netaji Nagar</span>
                                             <span class="m-contact-city-region"><span class="m-contact-city" itemprop="locality">New Delhi
                                                 </span>
-                                                <span class="m-contact-region" itemprop="region">Delhi</span></span>
-                                            <span class="m-contact-zip-country"><span class="m-contact-zip" itemprop="postal-code">110023</span> <
+                                                <!--span class="m-contact-region" itemprop="region">Delhi</span></span>-->
+                                            <span class="m-contact-zip-country"><span class="m-contact-zip" itemprop="postal-code">110023</span> 
+                                            
                                                 </div>
+                                                <p><h6>Mail: principaldcac@gmail.com
+</h6></p>
 
                                                 <div class="m-contact-tel-fax">
                                                     <span class="m-contact-tel">Tel: <span itemprop="tel">011-24109821</span></span>
