@@ -67,11 +67,11 @@
                                         <h1 class="title-widget">Useful links</h1>
 
                                         <ul>
-                                            <li><a href="#" title="menu item">Admissions</a></li>
-                                            <li><a href="#" title="menu item">Academics</a></li>
-                                            <li><a href="#" title="menu item">Faculties</a></li>
+                                            <li><a href="admissions.php" title="menu item">Admissions</a></li>
+                                            <li><a href="academics.php" title="menu item">Academics</a></li>
+                                            <li><a href="faculty.php" title="menu item">Faculties</a></li>
                                             <li><a href="#" title="menu item">Job Opportunities - Application</a></li>
-                                            <li><a href="#" title="menu item">Farewell</a></li>
+                                            <li><a href="AdministrativeStaff.php" title="menu item">Administration</a></li>
                                         </ul>
 
                                     </li>

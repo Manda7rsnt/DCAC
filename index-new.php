@@ -358,6 +358,10 @@
 
                     </div><!-- misc wrapper end -->
 
+
+<!--888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888-->
+
+
                     <div class="col-lg-4 col-md-4"><!-- recent news wrapper -->
 
                         <div class="col-padded col-shaded"><!-- inner custom column -->
