@@ -57,7 +57,7 @@ header{
 }
 
 .bg-color{
-  background-color: #ABB7B7;
+  background-color: #BDC3C7;
 }
 
 li a:link, a:visited {
@@ -130,8 +130,10 @@ li a:link, a:visited {
 
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
+
+                            <li><a href="index-new.php">Home</a></li>
                                 <li class="dropdown">
-                                    <a href="index-new.php" class="dropdown-toggle" data-toggle = "dropdown">Home<b class="caret"></b></a>
+                                    <a href="index-new.php" class="dropdown-toggle" data-toggle = "dropdown">About Us<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
                                         <li> <a href = "PrincipalDesk.php" > Principal's Desk</a></li>
                                         <li> <a href = "history.php" > History</a></li>
@@ -189,8 +191,8 @@ li a:link, a:visited {
                                 <li><a href="alumni.php">Alumni</a></li>
                                 <li><a href="#" class="dropdown-toggle" data-toggle = "dropdown">Login<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li> <a href = "allPDFs/Guidelines.pdf" > Faculty</a></li>
-                                        <li> <a href = "allPDFs/Guidelines.pdf" > Students</a></li>
+                                        <li> <a href = "" > Faculty</a></li>
+                                        <li> <a href = "" > Students</a></li>
                                     </ul>
                                 </li>
 

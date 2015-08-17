@@ -430,10 +430,32 @@
 
                 </div><!-- row end -->
 
+                <div class="row">
+  <div class="col-xs- col-md-4">
+    <a href="timetable.php" class="thumbnail">
+      <img src="images/photo gallery/TT.gif" alt="Time Table">
+    </a>
+  </div>
+
+  <div class="col-xs- col-md-4">
+    <a href="#" class="thumbnail">
+      <img src="images/photo gallery/a2.jpg" alt="Cut-Off List">
+    </a>
+  </div>
+
+  <div class="col-xs- col-md-4">
+    <a href="#" class="thumbnail">
+      <img src= "images/photo gallery/p33.jpg" alt="anti-ragging">
+    </a>
+  </div>
+  </div>
+
             </div><!-- container end -->
 
         </div><!-- content wrapper end -->
 
+
+        
 
 
 <?php require('footer.php');
