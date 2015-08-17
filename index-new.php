@@ -340,13 +340,24 @@
 
                     <div class="col-lg-4 col-md-4"><!-- misc wrapper -->
 
-                        <div class="col-padded"><!-- inner custom column -->
+                        <div class="col-padded "><!-- inner custom column -->
 
                             <ul class="list-unstyled clear-margins"><!-- widgets -->
 
 
 
                                 <li class="widget-container widget_text"><!-- widget -->
+                                <p><h1 class="title-widget">About Us</h1></p>
+
+                                <img src="img/DCAC1.png"><br><br>
+                                <p>
+                                    " Delhi College of Arts & Commerce, premier higher educational institution, 
+                                    imparts holistic professional and vocational education. 
+                                    The college provides a dynamic learning environment to its students to pursue excellence, 
+                                    gain knowledge and acquire skills to achieve their goals Delhi College of Arts & Commerce, 
+                                    premier higher educational institution, imparts holistic professional and vocational education."
+                                </p>
+
 
                                 </li><!-- widget end -->
 

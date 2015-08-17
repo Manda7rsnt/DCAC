@@ -20,6 +20,8 @@
     </head>
     
     <style>
+    
+
 
 .styledrow{
     
@@ -56,11 +58,11 @@ header{
 }
 
 .bg-color{
-  background-color: #22313F;
+  background-color: #ABB7B7;
 }
 
 li a:link, a:visited {
-    color:  #CD5C5C;
+    color:  #22313F;
     text-decoration: none;
 }
         <!---->
