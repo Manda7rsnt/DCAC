@@ -344,10 +344,10 @@
 
                             <ul class="list-unstyled clear-margins"><!-- widgets -->
 
-
+                               <h1 class="title-widget">About Us</h1>
 
                                 <li class="widget-container widget_text"><!-- widget -->
-                                <p><h1 class="title-widget">About Us</h1></p>
+                                
 
                                 <img src="img/DCAC1.png"><br><br>
                                 <p>

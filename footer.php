@@ -26,8 +26,6 @@
                                             <span class="m-contact-zip-country"><span class="m-contact-zip" itemprop="postal-code">110023</span> 
                                             
                                                 </div>
-                                                <p><h6>Mail: principaldcac@gmail.com
-</h6></p>
 
                                                 <div class="m-contact-tel-fax">
                                                     <span class="m-contact-tel">Tel: <span itemprop="tel">011-24109821</span></span>
@@ -40,7 +38,7 @@
 
                                                 <ul class="list-unstyled list-inline">
 
-                                                    <li><a href="#" title="Contact us"><i class="fa fa-envelope"></i></a></li>
+                                                    <li><a href="mailto:principaldcac@gmail.com" title="Contact us"><i class="fa fa-envelope"></i></a></li>
                                                     <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                                                     <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 
@@ -129,7 +127,7 @@
 
                             <p class="copy-text text-inverse">
                                 &copy; 2015 Delhi College of Arts and Commerce. All rights reserved.<br>
-                                Developed & Maintained by <a href="">COFFEE COMRADES</a>
+                                Developed & Maintained by <a href="#">COFFEE COMRADES</a>
                             </p>
 
                         </div>

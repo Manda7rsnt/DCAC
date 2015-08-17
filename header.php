@@ -12,7 +12,6 @@
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"><!-- font-awesome -->
         <link href="js/dropdown-menu/dropdown-menu.css" rel="stylesheet" type="text/css"><!-- dropdown-menu -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"><!-- Bootstrap -->
-        <link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"><!-- Bootstrap -->
         <link href="js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css"><!-- Fancybox -->
         <link href="js/audioplayer/audioplayer.css" rel="stylesheet" type="text/css"><!-- Audioplayer -->
         <link href="css/style.css" rel="stylesheet" type="text/css"><!-- theme styles -->
