@@ -373,10 +373,10 @@
 <!--888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888-->
 
 
-                    <div class="col-lg-4 col-md-4"><!-- recent news wrapper -->
+                    <div class="col-lg-4 col-md-4" ><!-- recent news wrapper -->
 
-                        <div class="col-padded col-shaded"><!-- inner custom column -->
-                            <div class="ticker">
+                        <div class="col-padded col-shaded" height = "200"><!-- inner custom column -->
+                            <div class="ticker" >
 
                             <ul class="list-unstyled clear-margins"><!-- widgets -->
 
@@ -384,37 +384,47 @@
 
                                     <h1 class="title-widget">What's New @ DCAC</h1>
 
-                                    <ul class="list-unstyled" id="ticker">
+                                    <ul class="list-unstyled" id="ticker"  >
+                                    <!--
+                                    <marquee onmouseover="this.stop();" onmouseout="this.start();" scrollamount="3.5" 
+scrolldelay="10" direction="up" width="" height="350" top="0" bottom="" left="0" class="newstext" > -->
 
                                         <li class="recent-news-wrap">
 
-                                            <h1 class="title-median"><a href="index.html#" title="Megan Boyle flourishes...">Under graduate Ninth Cut-Off List</a></h1>
-
-
-
+                                            <h1 class="title-median"><a href="" title="Megan Boyle flourishes...">Course wise data of all Admitted Candidates in the College.
+</a></h1>
                                         </li>
 
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="index.html#" title="Megan Boyle flourishes...">English Language Proficiency Course- Details & Form</a></h1>
+                                            <h1 class="title-median"><a href="" title="Megan Boyle flourishes...">Course & Category-wise vacant postion as on 17.08.2015.</a></h1>
                                         </li>
 
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="index.html#" title="News-Ticker1">Anti-Ragging Helpline</a></h1>
+                                            <h1 class="title-median"><a href="" title="News-Ticker1">Notice for Students of Add-on Certificate Courses in Spanish , German and French and Diploma Courses in Spanish.</a></h1>
                                         </li>
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="index.html#" title="News-Ticker2">Corrigendum for admission under ward Quota 2015-16</a></h1>
+                                            <h1 class="title-median"><a href="" title="News-Ticker2">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of English (01-UR and 01-OBC Category).</a></h1>
                                         </li>
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="index.html#" title="News-Ticker3">List of Students selected under Ward Quota</a></h1>
+                                            <h1 class="title-median"><a href="" title="News-Ticker3">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of History (01-UR Category).</a></h1>
                                         </li>
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="index.html#" title="News-Ticker4">Second merit list for Admission under Sports Quota 2015-16</a></h1>
+                                            <h1 class="title-median"><a href="" title="News-Ticker4">Under Graduate Twelfth cutoff List.</a></h1>
                                         </li>
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="index.html#" title="News-Ticker5">First merit list for Admission under Sports Quota 2015-16</a></h1>
+                                            <h1 class="title-median"><a href="" title="News-Ticker5">Notice for Foundantion Course (for 2 Yrs Students).</a></h1>
                                         </li>
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="index.html#" title="News-Ticker6">Archive</a></h1>
+                                            <h1 class="title-median"><a href="" title="News-Ticker6">Download Examination Form For Semester3Y.</a></h1>
+                                        </li>
+                                        <li class="recent-news-wrap">
+                                            <h1 class="title-median"><a href="" title="News-Ticker6">Download Examination Form For Semester3Y (Erstwhile - FYUP).</a></h1>
+                                        </li>
+                                        <li class="recent-news-wrap">
+                                            <h1 class="title-median"><a href="" title="News-Ticker6">Hostel facility for Girl/Boy students beloning to SC/ST/OBC/minorities category.</a></h1>
+                                        </li>
+                                        <li class="recent-news-wrap">
+                                            <h1 class="title-median"><a href="" title="News-Ticker6">Last date has been Extended for English Language Proficiency Course - Details and Form</a></h1>
                                         </li>
 
                                     </ul>

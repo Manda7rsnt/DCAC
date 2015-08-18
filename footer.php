@@ -148,7 +148,7 @@ function ticker() {
         $(this).appendTo($('#ticker')).slideDown();
     });
 }
-setInterval(ticker, 3000);
+setInterval (function(){ ticker(); }, 3000);
 </script>
                  <!--Script for Ticker-->
                  

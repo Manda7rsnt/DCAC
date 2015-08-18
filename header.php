@@ -64,6 +64,10 @@ li a:link, a:visited {
     color:  #22313F;
     text-decoration: none;
 }
+body {
+	background-image: url("textures/light_wool.png");
+}
+
         <!---->
         <!---->
         
