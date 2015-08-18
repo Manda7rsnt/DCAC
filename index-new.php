@@ -438,13 +438,13 @@
   </div>
 
   <div class="col-xs- col-md-4">
-    <a href="#" class="thumbnail">
+    <a href="Cut-off-list.php" class="thumbnail">
       <img src="images/photo gallery/a2.jpg" alt="Cut-Off List">
     </a>
   </div>
 
   <div class="col-xs- col-md-4">
-    <a href="#" class="thumbnail">
+    <a href="allPDFs/Anti_Ragging.pdf" class="thumbnail">
       <img src= "images/photo gallery/p33.jpg" alt="anti-ragging">
     </a>
   </div>
