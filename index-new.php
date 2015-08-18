@@ -98,176 +98,153 @@
 
                     </div><!-- featured posts slider end -->
 
-                </div><!-- row end -->
+                </div><!-- row end --><br>
                 <!--8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888-->
-                <div class="row  styledrow">
-                <div class="col-lg-12 col-md-12"><!-- misc wrapper -->
-
-                   
-
-                        <ul class="list-unstyled clear-margins"><!-- widgets -->
+                
 
 
+               <div id="tabs" class="tabs">
+    <nav>
+        <ul>
+            <li><a href="#section-1" class="icon-shop"><span>ABOUT COLLEGE</span></a></li>
+            <li><a href="#section-2" class="icon-cup"><span>STUDENT ZONE</span></a></li>
+            <li><a href="#section-3" class="icon-food"><span>FACULTY ZONE</span></a></li>
+        </ul>
+    </nav>
 
-                            <li class="widget-container widget_text"><!-- widget -->
-                                <div class="col-lg-4">
+    <div class="content">
+        <section id="section-1">
+            <div class="mediabox">
+                <img src="" alt="img01" />
+                <h3><a href="">Governing Body</a>></h3>
+             </div>
+            <div class="mediabox">
+                <img src="" alt="img02" />
+                <h3><a href="">Activities</a></h3>
+                </div>
+            <div class="mediabox">
+                <img src="" alt="img03" />
+                <h3><a href="">Facilities</a></h3>
+                </div>
+        </section>
 
-                                    <a class="custom-button cb-green" title="How to apply?" data-toggle="collapse" href="#collapseabout" aria-expanded="false" aria-controls="collapseExample">
-                                        <i class="custom-button-icon fa fa-check-square-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">About Us</span>
-                                            <span class="custom-button-tagline">The DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
+        <section id="section-2">
+            <div class="mediabox">
+                <img src="" alt="img01" />
+                <h3><a href="">Attendance</a>></h3>
+             </div>
+            <div class="mediabox">
+                <img src="" alt="img02" />
+                <h3><a href="">Courses and Syllabus</a></h3>
+                </div>
+            <div class="mediabox">
+                <img src="" alt="img03" />
+                <h3><a href="timetable.php">Time Table</a></h3>
+                </div>
+                <div class="mediabox">
+                <img src="" alt="img03" />
+                <h3><a href="timetable.php">Previous Year Q.Papers</a></h3>
+                </div>
+                <div class="mediabox">
+                <img src="" alt="img03" />
+                <h3><a href="timetable.php">Internal Assessment</a></h3>
+                </div>
+                <div class="mediabox">
+                <img src="" alt="img03" />
+                <h3><a href="timetable.php">Friday School of Economics</a></h3>
+                </div>
+        </section>
 
+        <section id="section-3">
+            <div class="mediabox">
+                <img src="" alt="img01" />
+                <h3><a href="">Governing Body</a></h3>
+             </div>
+            <div class="mediabox">
+                <img src="" alt="img02" />
+                <h3><a href="">Activities</a></h3>
+                </div>
+            <div class="mediabox">
+                <img src="" alt="img03" />
+                <h3><a href="">Facilities</a></h3>
+                </div>
+        </section>
+        </div>
+        </div>
 
-                                    <div class="collapse" id="collapseabout">
+        <script src="js/cbpFWTabs.js"></script>
+<script>
+    new CBPFWTabs( document.getElementById( 'tabs' ) );
 
-                                      <a href ="#" class="custom-button cb-green" title="How to apply?">
-                                        <i class="custom-button-icon fa fa-check-square-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Governing Body</span>
-                                            <span class="custom-button-tagline">The DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
+function( window ) {
+    
+    'use strict';
 
-                                    <a href="#" class="custom-button cb-gray" title="Campus tour">
-                                        <i class="custom-button-icon fa  fa-play-circle-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">About College</span>
-                                            <span class="custom-button-tagline">Know your Gurus</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
+    function extend( a, b ) {
+        for( var key in b ) { 
+            if( b.hasOwnProperty( key ) ) {
+                a[key] = b[key];
+            }
+        }
+        return a;
+    }
 
-                                     <a href="#" class="custom-button cb-yellow" title="Prospectus" >
-                                        <i class="custom-button-icon fa  fa-leaf"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Facilities</span>
-                                            <span class="custom-button-tagline">Academics at DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
+    function CBPFWTabs( el, options ) {
+        this.el = el;
+        this.options = extend( {}, this.options );
+        extend( this.options, options );
+        this._init();
+    }
 
-                                    <a href ="#" class="custom-button cb-green" title="How to apply?">
-                                        <i class="custom-button-icon fa fa-check-square-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Activities</span>
-                                            <span class="custom-button-tagline">The DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
+    CBPFWTabs.prototype.options = {
+        start : 0
+    };
 
-                                    </div>
+    CBPFWTabs.prototype._init = function() {
+        // tabs elemes
+        this.tabs = [].slice.call( this.el.querySelectorAll( 'nav > ul > li' ) );
+        // content items
+        this.items = [].slice.call( this.el.querySelectorAll( '.content > section' ) );
+        // current index
+        this.current = -1;
+        // show current content item
+        this._show();
+        // init events
+        this._initEvents();
+    };
 
+    CBPFWTabs.prototype._initEvents = function() {
+        var self = this;
+        this.tabs.forEach( function( tab, idx ) {
+            tab.addEventListener( 'click', function( ev ) {
+                ev.preventDefault();
+                self._show( idx );
+            } );
+        } );
+    };
 
-                                </div>
+    CBPFWTabs.prototype._show = function( idx ) {
+        if( this.current >= 0 ) {
+            this.tabs[ this.current ].className = '';
+            this.items[ this.current ].className = '';
+        }
+        // change current
+        this.current = idx != undefined ? idx : this.options.start >= 0 && this.options.start < this.items.length ? this.options.start : 0;
+        this.tabs[ this.current ].className = 'tab-current';
+        this.items[ this.current ].className = 'content-current';
+    };
 
-                                <div class="col-lg-4">
-                                    <a class="custom-button cb-gray" title="Campus tour" data-toggle="collapse" href="#collapsefaculty" aria-expanded="false" aria-controls="collapseExample">
-                                        <i class="custom-button-icon fa  fa-play-circle-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Faculty Zone</span>
-                                            <span class="custom-button-tagline">Know your Gurus</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
+    // add to global namespace
+    window.CBPFWTabs = CBPFWTabs;
 
-                                    <div class="collapse" id="collapsefaculty">
-
-                                      <a href ="#" class="custom-button cb-green" title="How to apply?">
-                                        <i class="custom-button-icon fa fa-check-square-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Department</span>
-                                            <span class="custom-button-tagline">The DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
-
-                                    <a href="#" class="custom-button cb-gray" title="Campus tour">
-                                        <i class="custom-button-icon fa  fa-play-circle-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Profile</span>
-                                            <span class="custom-button-tagline">Know your Gurus</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
-
-                                     <a href="#" class="custom-button cb-yellow" title="Prospectus" >
-                                        <i class="custom-button-icon fa  fa-leaf"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Achievement</span>
-                                            <span class="custom-button-tagline">Academics at DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
-
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4">
-                                    <a class="custom-button cb-yellow" title="Prospectus" data-toggle="collapse" href="#collapsestudent" aria-expanded="false" aria-controls="collapseExample">
-                                        <i class="custom-button-icon fa  fa-leaf"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Student Zone</span>
-                                            <span class="custom-button-tagline">Academics at DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
-
-                                    <div class="collapse" id="collapsestudent">
-
-                                      <a href ="#" class="custom-button cb-green" title="How to apply?">
-                                        <i class="custom-button-icon fa fa-check-square-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Governing Body</span>
-                                            <span class="custom-button-tagline">The DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
-
-                                    <a href="#" class="custom-button cb-gray" title="Campus tour">
-                                        <i class="custom-button-icon fa  fa-play-circle-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">About College</span>
-                                            <span class="custom-button-tagline">Know your Gurus</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
-
-                                     <a href="#" class="custom-button cb-yellow" title="Prospectus" >
-                                        <i class="custom-button-icon fa  fa-leaf"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Facilities</span>
-                                            <span class="custom-button-tagline">Academics at DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
-
-                                    <a href ="#" class="custom-button cb-green" title="How to apply?">
-                                        <i class="custom-button-icon fa fa-check-square-o"></i>
-                                        <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Activities</span>
-                                            <span class="custom-button-tagline">The DCAC</span>
-                                        </span>
-                                        <em></em>
-                                    </a>
-
-                                    </div>
-                                </div>
-
-                            </li><!-- widget end -->
+})( window );
+</script>
 
 
 
-                        </ul><!-- widgets end -->
 
-                    </div><!-- inner custom column end -->
 
-                </div><!-- misc wrapper end -->
-           
+
                 <!--8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888-->
 
                 <div class="row no-gutter"><!-- row -->
@@ -308,20 +285,6 @@
 
                                             <p>
                                                 Pellentesque lobortis, arcu eget condimentum auctor, magna neque faucibus dui, ut varius diam neque sed diam... <a href="index.html#" class="moretag" title="read more">MORE</a> 
-                                            </p>
-
-                                        </li>
-
-                                        <li class="up-event-wrap">
-
-                                            <h1 class="title-median"><a href="index.html#" title="School talents gathering">Campus "Open Doors" 2015-16</a></h1>
-
-                                            <div class="up-event-meta clearfix">
-                                                <div class="up-event-date">Sep 04, 2015</div><div class="up-event-date">Sep 11, 2015</div>
-                                            </div>
-
-                                            <p>
-                                                Donec fringilla lacinia laoreet. Vestibulum ultrices blandit tempor. Aenean magna elit, varius eget quam a, posuere... <a href="index.html#" class="moretag" title="read more">MORE</a> 
                                             </p>
 
                                         </li>
@@ -375,7 +338,7 @@
 
                     <div class="col-lg-4 col-md-4" ><!-- recent news wrapper -->
 
-                        <div class="col-padded col-shaded" height = "200"><!-- inner custom column -->
+                        <div class="col-padded col-shaded" ><!-- inner custom column -->
                             <div class="ticker" >
 
                             <ul class="list-unstyled clear-margins"><!-- widgets -->

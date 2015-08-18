@@ -15,6 +15,7 @@
         <link href="js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css"><!-- Fancybox -->
         <link href="js/audioplayer/audioplayer.css" rel="stylesheet" type="text/css"><!-- Audioplayer -->
         <link href="css/style.css" rel="stylesheet" type="text/css"><!-- theme styles -->
+        <link href="css/nav-tabs.css" rel="stylesheet" type="text/css"><!-- theme styles -->
 
     </head>
     
