@@ -1,5 +1,6 @@
 <?php
 include '_database/database.php';
+require('../header.php');
 echo '<link rel="stylesheet" type="text/css" href="css/style.css">';
 
         $sql = "SELECT `user_id`,`user_prefix`, `user_firstname`, `user_lastname`, `user_papers`, `user_profession`, `user_papers` FROM `user` WHERE 1";
@@ -19,7 +20,7 @@ while ($row = mysqli_fetch_array($result))
             
              if($num==0)
         {
-        echo"<h2>"."Department of ".$department."</h2>";
+        echo"<h3>"."Department of ".$department."</h3>";
             $count=0;
         
         echo '<table class="table">
@@ -39,7 +40,7 @@ while ($row = mysqli_fetch_array($result))
             echo ' </tbody>
             </table>';
             
-            echo"<h2>"."Department of ".$department."</h2>";
+            echo"<h3>"."Department of ".$department."</h3>";
             $count=0;
             
             echo '<table class="table">
