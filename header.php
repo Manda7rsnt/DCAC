@@ -91,12 +91,12 @@ body {
             
             <div class='header-main container'>
                 <div class='logo col-md-2 col-sm-2'>
-                    <a href="index-new.php"><img src="img/logo.gif"></a>
+                    <a href="index.php"><img src="img/logo.gif"></a>
                     
                 </div><!--//logo-->           
                 <div class='col-md-8 col-sm-8'>
-                    <p class='college'><a href="index-new.php">Delhi College of Arts and Commerce</a></h1> 
-                        <p class='university'><a href = "index-new.php">University of Delhi</a></h1>
+                    <p class='college'><a href="index.php">Delhi College of Arts and Commerce</a></h1> 
+                        <p class='university'><a href = "http://www.du.ac.in/du/">University of Delhi</a></h1>
                     
                     
                 <div class='col-md-2 col-sm-2'>
@@ -136,7 +136,7 @@ body {
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
 
-                            <li><a href="index-new.php">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                                 <li class="dropdown">
                                     <a href="index-new.php" class="dropdown-toggle" data-toggle = "dropdown">About Us<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
@@ -147,11 +147,11 @@ body {
 
                                     </ul>
                                 </li>
+                                <!--<li><a href="faculty.php"></a>Faculty</li>-->
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle = "dropdown">People<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
                                         <li> <a href="AdministrativeStaff.php" > Administrative Staff</a></li>
-                                        <li> <a href = "faculty.php" > Faculty</a></li>
                                         <li> <a href = "student.php" > Student</a></li>
 
                                     </ul>
@@ -196,8 +196,8 @@ body {
                                 <li><a href="alumni.php">Alumni</a></li>
                                 <li><a href="#" class="dropdown-toggle" data-toggle = "dropdown">Login<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li> <a href = "" > Faculty</a></li>
-                                        <li> <a href = "" > Students</a></li>
+                                        <li> <a href = "profiles/login.php" > Faculty</a></li>
+                                        <li> <a href = "profiles/admin-login.php" > Admin</a></li>
                                     </ul>
                                 </li>
 

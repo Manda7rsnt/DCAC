@@ -229,9 +229,6 @@ $sql = "SELECT * FROM user where user_id='$user_id'";
 	<!-- start:footer -->
 	<footer>
 		<div class="container">
-			<div class="text-center">
-				<p>Copyright &copy; 2015. All Right reserved</p>
-			</div>
 		</div>
 	</footer>
 	<!-- end:footer -->

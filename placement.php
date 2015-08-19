@@ -5,7 +5,7 @@
 
 
 <img class="imgr img-responsive center-block" src="images/photo%20gallery/place.jpg" alt="" width="950" height="200" />
-
+ <br>
 <p>The Job placement cell of Delhi College of Arts and Commerce has been running successfully for the last six years. It serves as an interface between the students and the corporates. The placement cell starts its activities by organizing various workshops and seminars where knowledge regarding resume writing, handling interviews, group discussions, and written tests are imparted to the students. Our focus is always on inviting companies with varied profiles to suit the requirements of our students looking for jobs in finance, accounting, marketing, sales, computers, audit and research background. 
 The academic year 2012-13 was exceptionally good for our placement cell as around 230 students from various streams were successfully placed with lots of national as well as multi-national organisations such as, Google, Capital IQ, KPMG, Ernst and Young, Royal Bank of Scotland, Cians Analytics, Protivity, Tata Consultancy Services, Genpact, IBM, India Infoline, Bharti Airtel, Eon Electric, Naukri.Com, 99 Acres.com, Aon Hewitt, Zomato.</p><br>
     <h5>Placement Cell Coordinator</h5>

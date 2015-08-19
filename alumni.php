@@ -4,7 +4,7 @@
 
 
 
-<p style="color:#000000">
+<p>
 DCAC alumni have managed to achieve success underlying high moral values. They occupy prestigious positions in educational institutes, corporate houses, media and administration. They have been source of inspiration for our future students.  Every year alumni function are arranged so that, we not only refresh memories but also cherish their success. 
 
 <br>
@@ -35,7 +35,7 @@ Every year on last Sunday of February an annual reunion function is organized in
 
 
 <p style="color:#990000; "><strong>Report of 1st Alumni Meet</strong></p>
-        <p style="color:#000000">
+        <p >
 This New Year we are making use of this occasion to inform that the College has taken steps to form the Alumni Association. You can visit the college website (<font color="#990000 ">http://dcac.du.ac.in</font>) and register by filling up the Alumni Registration Form. Please forward this message to your batch mates and other college friends if you are in touch with them so that they may give information about themselves to us. In case you have any old pictures of your College days, we would like to have copies of them for our records and use.<br><br>
 Students of the erstwhile G.D. Salwan College (the entire staff of which became part of the present college and whose academic and administrative records are maintained by D.C.A.C.) are also welcome to join the Alumni Association.<br><br>
 The first D.C.A.C. Alumni meet was held at the college premises on Sunday, 27th February 2011. The function started at 4:00pm and included a cultural programme followed by dinner. The Alumni Annual Meet will be held usually on the last Sunday of every February.<br><br>
@@ -46,7 +46,7 @@ We are sure that you will love to make use of this opportunity to meet your old 
 
 
 <p style="color:#990000; "><strong>Report of 2nd Alumni Meet</strong></p>
-        <p style="color:#000000">
+        <p >
 
 In continuation of the First Alumni Meet which was held on 27th February 2011, Sunday, in the college with the cooperation of the college principal, Dr. M.S. Rawat, Dr. V.K. Sharma and other staff members (both teaching and non-teaching). The first students’ Alumni Managing Committee was formed on 04-05-2011, having Mr. Bharat Bhushan Sharma (President), Mr. Shefali Mitra (Vice President), Mr. B.B. Sharma ( Vice- President), Mr. Anil Kumar Mittal (Gen. Secretary), Mrs. Preeti Pahuja and Ms. Sarita Rawat (Joint Secretaries).<br><br>
 In the next meeting held on 26-09-2011 in the college, the Alumni Managing Committee co-opted other members of the Managing Committee namely Mr. Sat Narian Goel, Mr. Raja  Ram, Mr. S.K. Gupta, Mr. Yogesh Sehgal, Mr. Gulshan Ahuja, Mr. Arun Bansal, Mr. M.K. Chauhan, Mr. Prahlad Rajput, Mr. Paras Dua, Mr. Ayash Chauhan, Ms. Jasleen  Kaur, Mr. K.K. Saras, and Mr. Rajinder Kumar.<br><br>
@@ -66,7 +66,7 @@ d)	Even the photograph of this event was put on the Facebook.<br><br>
 
 
 <p style="color:#990000; "><strong>Report of 3rd Alumni Meet</strong></p>
-        <p style="color:#000000">
+        <p>
 
 The 3rd College Alumni Meet was held on 24-02-2013 Sunday, from 4 P.M. onwards where more than 350 staff and alumnus enjoyed the evening. Many staff members like Dr. S.C. Shukla (first Principal of D.C.A.C.), Dr. M.S. Rawat (College Principal), Dr. K.L. Dhingra (President- Staff Association), Dr. M.R. Chhikara, Mrs. Anita, Dr. Neeru Kapoor, Mrs. Subodh Sharma, Dr. Sheela Bajaj, Mr. V.K. Sharma, Dr. Sunjeeb Kumar, Dr. Anil Chauhan, Dr. Tarjeet Sabharwal, Dr. Anuradha Gupta, Dr. M.K. Rathi, Dr. V.K. Tyagi, Mr. S.K. Pandey, Mr. Y.K. Ranjan, Mr. Pankaj Kumar, Ms. Neha Kakkar, Mr. B.K. Sharma (S.O.), Mr. Y.S. Chauhan, Mr. S.S. Rawat, Mr. Jeet Singh, Mr. Ram Singh, Mr. Atar Singh and Mr. Mansa Ram were present in the Meet.<br><br>
 This meet consisted of two events- firstly, Cultural Meet consisting of music, dance and tambola anchored by Mr. Sharad Mathur (college student). Four prizes were won by the Alumnus from the game of tambola. Secondly, to celebrate the D.C.A.C. Silver Jubilee, the Business Meet was held consisting of giving Mementos to former staff of D.C.A.C./ G.D.S.C.<br><br>
@@ -113,7 +113,7 @@ After the Alumni Meet, the Association has proposed to meet the alumni for a pic
 
 
 <p style="color:#990000; "><strong>Report of 4th Alumni Meet (Held on 23rd February, 2014) </strong></p>
-        <p style="color:#000000">
+        <p>
 
 The 4th Alumni Meet organized by D.C.A.C./ G.D.S.C. Alumni Association saw an Alumni to encourage participation. The meet started with the Business meet and was followed by an evening of joy under the numerous twinkling lights that adorned the D.C.A.C. campus.<br><br> 
 The meet was well attended by  more than 300 Alumni ranging across various batches and various parts of the country and outside the country. Alumni right from the first batch of 1973 to the most recent batch were present.<br><br>
