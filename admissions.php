@@ -3,8 +3,8 @@
 <div class="col-md-12">
 
 
-<img class="imgr" src="images/photo%20gallery/admission.jpg" alt="" width="950" height="200" />
-<br>
+<img class="imgr" src="images/photo%20gallery/admission.png" alt="" width="950" height="200" />
+<br><br>
 
 <table width="650px" border="0" cellspacing="0" cellpadding="0" style="color:#ff0000">
               <tr style="color:#000000">

@@ -162,7 +162,7 @@ body {
                                         <li> <a href = "admissions.php" > Admission</a></li>
                                         <li> <a href = "courses.php" > Courses</a></li>
                                         <li> <a href = "addoncourses.php" > Add On Courses</a></li>
-                                        <li> <a href = "all PDFs/" > Academic Calender</a></li>
+                                        <li> <a href = "allPDFs/AcademicCalender.pdf" > Academic Calender</a></li>
                                         <li> <a href = "timetable.php" > Time Table</a></li>
                                         <li> <a href = "attendance.php" > Attendance</a></li>
 
@@ -171,7 +171,7 @@ body {
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle = "dropdown">Administration<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li> <a href = "#" > Commitee</a></li>
+                                        <li> <a href = "commitee.php" > Commitee</a></li>
                                         <li> <a href = "allPDFs/ordinance.pdf" > Ordinance On Internal Assessment</a></li>
                                         <li> <a href = "allPDFs/ordinance1.pdf" > Ordinance On Ragging Sexual Harassment</a></li>
                                         <li> <a href = "allPDFs/Minimum_Critical_Disclosure.pdf" > Minimum Disclosure Norms</a></li>

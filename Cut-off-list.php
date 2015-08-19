@@ -19,14 +19,14 @@
                 </tr>
                 </thead>
                 <tbody>
-                <tr class="success"><td>1.</td><td>B.A. (Hons.) Economics</td><td><a href = "">Click for Detail</a></td><td>CLOSED</td><td>	85%	</td><td>76%</td><td>74%</td><td> 74%</td></tr>
-                <tr class="warning"><td>2.</td><td>B.A. (Hons.) English</td><td><a href = "">Click for Detail</a></td><td>CLOSED</td><td>	80% </td><td>CLOSED</td><td>76%</td><td> 70%</td></tr>
-                <tr class="danger"><td>3.</td><td>B.A. (Hons.) Journalism</td><td><a href = "">Click for Detail</a></td><td>CLOSED</td><td>	85% </td><td>82%</td><td>82%</td><td> CLOSED</td></tr>
-                <tr class="info"><td>4.</td><td>B.A. (Hons.) History</td><td><a href = "">Click for Detail</a></td><td>CLOSED</td><td>	79%-80% </td><td>74%-75%</td><td>CLOSED</td><td> 72%-74%</td></tr>
-                <tr class="active"><td>5.</td><td>B.A. (Hons.) Political Science</td><td><a href = "">Click for Detail</a></td><td>CLOSED</td><td>	79.25% </td><td>CLOSED</td><td>80%</td><td> CLOSED</td></tr>
-                <tr class="success"><td>6.</td><td>B. Com (Programme)</td><td><a href = "">Click for Detail</a></td><td>94.25%</td><td>	88% </td><td>74%</td><td>74%</td><td>	78%</td></tr>
-                <tr class="warning"><td>7.</td><td>B. Com (Hons.)</td><td><a href = "">Click for Detail</a></td><td>CLOSED</td><td>	88.5% </td><td>79%</td><td>79%</td><td> 82%</td></tr>
-                <tr class="danger"><td>8.</td><td>B. A. (Programme)</td><td><a href = "">Click for Detail</a></td><td>CLOSED</td><td>	72% </td><td>68%</td><td>67%-70%</td><td> CLOSED</td></tr>
+                <tr class="success"><td>1.</td><td>B.A. (Hons.) Economics</td><td><a href = "allPDFs/12Economics.pdf"><u>Click for Detail</u></a></td><td>CLOSED</td><td>	85%	</td><td>76%</td><td>74%</td><td> 74%</td></tr>
+                <tr class="warning"><td>2.</td><td>B.A. (Hons.) English</td><td><a href = "allPDFs/12English.pdf"><u>Click for Detail</u></a></td><td>CLOSED</td><td>	80% </td><td>CLOSED</td><td>76%</td><td> 70%</td></tr>
+                <tr class="danger"><td>3.</td><td>B.A. (Hons.) Journalism</td><td><a href = "allPDFs/12Journalism.pdf"><u>Click for Detail</u></a></td><td>CLOSED</td><td>	85% </td><td>82%</td><td>82%</td><td> CLOSED</td></tr>
+                <tr class="info"><td>4.</td><td>B.A. (Hons.) History</td><td><a href = "allPDFs/12History.pdf"><u>Click for Detail</u></a></td><td>CLOSED</td><td>	79%-80% </td><td>74%-75%</td><td>CLOSED</td><td> 72%-74%</td></tr>
+                <tr class="active"><td>5.</td><td>B.A. (Hons.) Political Science</td><td><a href = "allPDFs/12PS.pdf"><u>Click for Detail</u></a></td><td>CLOSED</td><td>	79.25% </td><td>CLOSED</td><td>80%</td><td> CLOSED</td></tr>
+                <tr class="success"><td>6.</td><td>B. Com (Programme)</td><td><a href = "allPDFs/12BCP.pdf"><u>Click for Detail</u></a></td><td>94.25%</td><td>	88% </td><td>74%</td><td>74%</td><td>	78%</td></tr>
+                <tr class="warning"><td>7.</td><td>B. Com (Hons.)</td><td><a href = "allPDFs/12BCH.pdf"><u>Click for Detail</u></a></td><td>CLOSED</td><td>	88.5% </td><td>79%</td><td>79%</td><td> 82%</td></tr>
+                <tr class="danger"><td>8.</td><td>B. A. (Programme)</td><td><a href = "allPDFs/12BAP.pdf"><u>Click for Detail</u></a></td><td>CLOSED</td><td>	72% </td><td>68%</td><td>67%-70%</td><td> CLOSED</td></tr>
                 </tbody>
                 </table>
 

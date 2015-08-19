@@ -158,15 +158,15 @@
         <section id="section-3">
             <div class="mediabox">
                 <img src="" alt="img01" />
-                <h3><a href="">Governing Body</a></h3>
+                <h3><a href="">Department</a></h3>
              </div>
             <div class="mediabox">
                 <img src="" alt="img02" />
-                <h3><a href="">Activities</a></h3>
+                <h3><a href="">Profile</a></h3>
                 </div>
             <div class="mediabox">
                 <img src="" alt="img03" />
-                <h3><a href="">Facilities</a></h3>
+                <h3><a href="">Achievement</a></h3>
                 </div>
         </section>
         </div>
@@ -354,22 +354,22 @@ scrolldelay="10" direction="up" width="" height="350" top="0" bottom="" left="0"
 
                                         <li class="recent-news-wrap">
 
-                                            <h1 class="title-median"><a href="" title="Megan Boyle flourishes...">Course wise data of all Admitted Candidates in the College.
+                                            <h1 class="title-median"><a href="allPDFs/Format.pdf" title="Megan Boyle flourishes...">Course wise data of all Admitted Candidates in the College.
 </a></h1>
                                         </li>
 
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="Megan Boyle flourishes...">Course & Category-wise vacant postion as on 17.08.2015.</a></h1>
+                                            <h1 class="title-median"><a href="allPDFs/MassMedia.pdf" title="Megan Boyle flourishes...">Course & Category-wise vacant postion as on 17.08.2015.</a></h1>
                                         </li>
 
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker1">Notice for Students of Add-on Certificate Courses in Spanish , German and French and Diploma Courses in Spanish.</a></h1>
+                                            <h1 class="title-median"><a href="allPDFs/Vacant_Position.pdf" title="News-Ticker1">Notice for Students of Add-on Certificate Courses in Spanish , German and French and Diploma Courses in Spanish.</a></h1>
                                         </li>
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker2">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of English (01-UR and 01-OBC Category).</a></h1>
+                                            <h1 class="title-median"><a href="allPDFs/Notice_English.pdf" title="News-Ticker2">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of English (01-UR and 01-OBC Category).</a></h1>
                                         </li>
                                         <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker3">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of History (01-UR Category).</a></h1>
+                                            <h1 class="title-median"><a href="allPDFs/Notice_History.pdf" title="News-Ticker3">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of History (01-UR Category).</a></h1>
                                         </li>
                                         <li class="recent-news-wrap">
                                             <h1 class="title-median"><a href="" title="News-Ticker4">Under Graduate Twelfth cutoff List.</a></h1>
