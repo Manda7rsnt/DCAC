@@ -143,27 +143,21 @@ $sql = "SELECT * FROM user where user_id='$user_id'";
 						          	<h1>Work Experience</h1>
 						          	<div class="hr-left"></div>
 						          	<div class="work-experience">
-						          		<h3>Web designer</h3>
-						          		<small><i class="fa fa-calendar"></i> 2010 - 2014</small>
-						          		<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-						          		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						          		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						          		<h3><?php echo $row['user_profession']?></h3>
+						          		<small><i class="fa fa-calendar"></i><?php echo $row['user_duration']?></small>
+						          		<p><?php echo $row['user_organization']?></p>
 						          	</div>
 						          	<hr>
 						          	<div class="work-experience">
-						          		<h3>Graphic Designer</h3>
-						          		<small><i class="fa fa-calendar"></i> 2010 - 2012</small>
-						          		<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-						          		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						          		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						          		<h3><?php echo $row['user_designation']?></h3>
+						          		<small><i class="fa fa-calendar"></i><?php echo $row['user_duration2']?></small>
+						          		<p><?php echo $row['user_organization2']?></p>
 						          	</div>
 						          	<hr>
 						          	<div class="work-experience">
-						          		<h3>Web Security</h3>
-						          		<small><i class="fa fa-calendar"></i> 2008 - 2010</small>
-						          		<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-						          		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						          		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						          		<h3><?php echo $row['user_designation']?></h3>
+						          		<small><i class="fa fa-calendar"></i><?php echo $row['user_duration3']?></small>
+						          		<p><?php echo $row['user_organization3']?></p>
 						          	</div>
 					          	</div>
 					        </li>
@@ -173,27 +167,21 @@ $sql = "SELECT * FROM user where user_id='$user_id'";
 						          	<h1>Education</h1>
 						          	<div class="hr-left"></div>
 						          	<div class="work-experience">
-						          		<h3>Web Developer Collage</h3>
-						          		<small><i class="fa fa-calendar"></i> 2010 - 2014</small>
-						          		<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-						          		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						          		proident.</p>
+						          		<h3><?php echo $row['user_education1']?></h3>
+						          		<small><i class="fa fa-calendar"></i> <?php echo $row['user_year']?></small>
+						          		<p><?php echo $row['user_subject']?></p>
 						          	</div>
 						          	<hr>
 						          	<div class="work-experience">
-						          		<h3>Institude IT</h3>
-						          		<small><i class="fa fa-calendar"></i> 2010 - 2012</small>
-						          		<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-						          		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						          		proident.</p>
+						          		<h3><?php echo $row['user_education2']?></h3>
+						          		<small><i class="fa fa-calendar"></i> <?php echo $row['user_year2']?></small>
+						          		<p><?php echo $row['user_subject2']?></p>
 						          	</div>
 						          	<hr>
 						          	<div class="work-experience">
-						          		<h3>Web Design School</h3>
-						          		<small><i class="fa fa-calendar"></i> 2008 - 2010</small>
-						          		<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-						          		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						          		proident.</p>
+						          		<h3><?php echo $row['user_education3']?></h3>
+						          		<small><i class="fa fa-calendar"></i> <?php echo $row['user_year3']?></small>
+						          		<p><?php echo $row['user_subject3']?></p>
 						          	</div>
 					          	</div>
 					        </li>

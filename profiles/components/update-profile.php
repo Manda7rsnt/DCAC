@@ -105,7 +105,25 @@
         $user_contact=$_REQUEST['user_contact'];
         $user_papers=$_REQUEST['user_papers'];
         $user_prefix=$_REQUEST['user_prefix'];
-        $sql3="UPDATE user SET user_firstname='$user_firstname',user_lastname='$user_lastname',user_profession='$user_profession',user_address='$user_address',user_address2='$user_address2',user_email='$user_email',user_password='$user_password',user_shortbio='$user_shortbio',user_longbio='$user_longbio',user_dob='$user_dob',user_gender='$user_gender',user_country='$user_country',user_website='$user_website',user_contact='$user_contact',user_papers='$user_papers',user_prefix='$user_prefix' WHERE user_username = '$temp'";
+        $user_designation2 = $_REQUEST['user_designation2'];
+        $user_designation3 = $_REQUEST['user_designation3'];
+        $user_duration = $_REQUEST['user_duration'];
+        $user_duration2 = $_REQUEST['user_duration2'];
+        $user_duration3 = $_REQUEST['user_duration3'];
+        $user_organization  = $_REQUEST['user_organization'];
+        $user_organization2  = $_REQUEST['user_organization2'];
+        $user_organization3  = $_REQUEST['user_organization3'];
+        $user_education1 = $_REQUEST['user_education1'];
+        $user_education2 = $_REQUEST['user_education2'];
+        $user_education3 = $_REQUEST['user_education3'];
+        $user_year = $_REQUEST['user_year'];
+        $user_year2 = $_REQUEST['user_year2'];
+        $user_year3 = $_REQUEST['user_year3'];
+        $user_subject  = $_REQUEST['user_subject'];
+        $user_subject2  = $_REQUEST['user_subject2'];
+        $user_subject3 = $_REQUEST['user_subject3'];
+
+        $sql3="UPDATE user SET user_firstname='$user_firstname',user_lastname='$user_lastname',user_profession='$user_profession',user_address='$user_address',user_address2='$user_address2',user_email='$user_email',user_password='$user_password',user_shortbio='$user_shortbio',user_longbio='$user_longbio',user_dob='$user_dob',user_gender='$user_gender',user_country='$user_country',user_website='$user_website',user_contact='$user_contact',user_papers='$user_papers',user_prefix='$user_prefix',user_designation2 = '$user_designation2',user_designation3 = '$user_designation3',user_duration = '$user_duration',user_duration2 = '$user_duration2',user_duration3 = '$user_duration3',user_organization  = '$user_organization',user_organization2  = '$user_organization2',user_organization3  = '$user_organization3',user_education1 = '$user_education1',user_education2 = '$user_education2',user_education3 = '$user_education3',user_year = '$user_year',user_year2 = '$user_year2',user_year3 = '$user_year3',user_subject  = '$user_subject',user_subject2  = '$user_subject2',user_subject3 = '$user_subject3' WHERE user_username = '$temp'";
             mysqli_query($database,$sql3)or die(mysqli_error($database));
             header("location:../edit-profile.php?user_username=$temp&request=profile-update&status=success");
     }    

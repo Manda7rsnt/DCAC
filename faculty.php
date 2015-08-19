@@ -7,7 +7,7 @@ require('header.php');
     $result = mysqli_query($database,$sql) or die(mysqli_error()); 
 
 $num =0;
-echo"<div class='container' >";
+echo"<div class='body' >";
 while ($row = mysqli_fetch_array($result))  
 {
     
@@ -76,9 +76,12 @@ while ($row = mysqli_fetch_array($result))
     
 }
 echo "</div>";
-require('footer.php');
 
 
+
+?>
+<?php 
+    include 'footer.php';
 ?>
 
 

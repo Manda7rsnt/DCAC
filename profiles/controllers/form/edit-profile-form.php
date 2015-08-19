@@ -1,4 +1,5 @@
-<form action="components/update-profile.php" method="post" enctype="multipart/form-data" id="UploadForm">
+<style></style>
+   <form action="components/update-profile.php" method="post" enctype="multipart/form-data" id="UploadForm">
     <!-- Nav tabs -->
     <ul class="nav nav-tabs">
       <li class="active"><a href="#general" data-toggle="tab">General</a></li>
@@ -142,74 +143,76 @@
             <div class="col-md-4">
                 <div class="form-group float-label-control">
                     <label for="">Designation </label>
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
-                </div> 
+                    <p>#1</p>
+                 <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
+                </div> <br>
                 <div class="form-group float-label-control">
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
+                   <p>#2</p>
+                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_designation2'];?>" name="user_designation2" value="<?php echo $rws['user_designation2'];?>" id="designation2">    
+                </div> <br>
+                 <div class="form-group float-label-control">
+                    <p>#3</p>
+                     <input type="text" class="form-control" placeholder="<?php echo $rws['user_designation3'];?>" name="user_designation3" value="<?php echo $rws['user_designation3'];?>" id="designation3">     
                 </div> 
-
-                <div class="form-group float-label-control">
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
-                </div>
                    <h2>Education</h2>
                     <div class="form-group float-label-control">
-                    <label for="">Designation </label>
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
-                </div> 
+                    <label for="">Subject </label>
+                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_education1'];?>" name="user_education1" value="<?php echo $rws['user_education1'];?>" id="education1">    
+                </div> <br> <br> 
                 <div class="form-group float-label-control">
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
-                </div> 
+                     <input type="text" class="form-control" placeholder="<?php echo $rws['user_education2'];?>" name="user_education2" value="<?php echo $rws['user_education2'];?>" id="education2">       
+                </div> <br> <br>
 
                 <div class="form-group float-label-control">
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
+                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_education3'];?>" name="user_education3" value="<?php echo $rws['user_education3'];?>" id="education3">   
                 </div> 
             </div> 
                <div class="col-md-4">
                 <div class="form-group float-label-control">
                     <label for="">Duration </label>
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
-                </div> 
+                    <br><br>
+                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_duration'];?>" name="user_duration" value="<?php echo $rws['user_duration'];?>" id="duration">    
+                </div> <br><br>
                 <div class="form-group float-label-control">
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
-                </div> 
+                     <input type="text" class="form-control" placeholder="<?php echo $rws['user_duration2'];?>" name="user_duration2" value="<?php echo $rws['user_duration2'];?>" id="duration2">  
+                </div> <br> <br>
 
                 <div class="form-group float-label-control">
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
+                     <input type="text" class="form-control" placeholder="<?php echo $rws['user_duration3'];?>" name="user_duration3" value="<?php echo $rws['user_duration3'];?>" id="duration3">     
                 </div> 
                    <div class="form-group float-label-control">
-                    <label for="">Duration </label>
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
+                    <label for="">Year </label>
+                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_year'];?>" name="user_year" value="<?php echo $rws['user_year'];?>" id="year">    
+                </div> <div class="form-group float-label-control">
+                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_year2'];?>" name="user_year2" value="<?php echo $rws['user_year2'];?>" id="year2">    
+                </div> <div class="form-group float-label-control">
+                
+                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_year3'];?>" name="user_year3" value="<?php echo $rws['user_year3'];?>" id="year3">    
                 </div> 
-                <div class="form-group float-label-control">
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
-                </div> 
-
-                <div class="form-group float-label-control">
-                    <input type="text" class="form-control" placeholder="<?php echo $rws['user_profession'];?>" name="user_profession" value="<?php echo $rws['user_profession'];?>" id="profession">    
-                </div> 
+                
             </div>
             <div class="col-md-4">
                 <div class="form-group float-label-control">
                     <label for="">Organisation and Role</label>
-                    <textarea class="form-control" placeholder="<?php echo $rws['user_shortbio'];?>" rows="2" placeholder="<?php echo $rws['user_shortbio'];?>" name="user_shortbio" value="<?php echo $rws['user_shortbio'];?>"><?php echo $rws['user_shortbio'];?></textarea>
+                    <textarea class="form-control" placeholder="<?php echo $rws['user_organization'];?>" rows="2" placeholder="<?php echo $rws['user_organization'];?>" name="user_organization" value="<?php echo $rws['user_organization'];?>"><?php echo $rws['user_organization'];?></textarea>
                 </div>
                    <div class="form-group float-label-control">
-                    <textarea class="form-control" placeholder="<?php echo $rws['user_shortbio'];?>" rows="2" placeholder="<?php echo $rws['user_shortbio'];?>" name="user_shortbio" value="<?php echo $rws['user_shortbio'];?>"><?php echo $rws['user_shortbio'];?></textarea>
-                </div>
-                   <div class="form-group float-label-control">
-                
-                    <textarea class="form-control" placeholder="<?php echo $rws['user_shortbio'];?>" rows="2" placeholder="<?php echo $rws['user_shortbio'];?>" name="user_shortbio" value="<?php echo $rws['user_shortbio'];?>"><?php echo $rws['user_shortbio'];?></textarea>
-                </div>
-                   <div class="form-group float-label-control">
-                    <label for="">Organisation and Role</label>
-                    <textarea class="form-control" placeholder="<?php echo $rws['user_shortbio'];?>" rows="2" placeholder="<?php echo $rws['user_shortbio'];?>" name="user_shortbio" value="<?php echo $rws['user_shortbio'];?>"><?php echo $rws['user_shortbio'];?></textarea>
-                </div>
-                   <div class="form-group float-label-control">
-                    <textarea class="form-control" placeholder="<?php echo $rws['user_shortbio'];?>" rows="2" placeholder="<?php echo $rws['user_shortbio'];?>" name="user_shortbio" value="<?php echo $rws['user_shortbio'];?>"><?php echo $rws['user_shortbio'];?></textarea>
+                    <textarea class="form-control" placeholder="<?php echo $rws['user_organization2'];?>" rows="2" placeholder="<?php echo $rws['user_organization2'];?>" name="user_organization2" value="<?php echo $rws['user_organization2'];?>"><?php echo $rws['user_organization2'];?></textarea>
                 </div>
                    <div class="form-group float-label-control">
                 
-                    <textarea class="form-control" placeholder="<?php echo $rws['user_shortbio'];?>" rows="2" placeholder="<?php echo $rws['user_shortbio'];?>" name="user_shortbio" value="<?php echo $rws['user_shortbio'];?>"><?php echo $rws['user_shortbio'];?></textarea>
+                    <textarea class="form-control" placeholder="<?php echo $rws['user_organization3'];?>" rows="2" placeholder="<?php echo $rws['user_organization3'];?>" name="user_organization3" value="<?php echo $rws['user_organization3'];?>"><?php echo $rws['user_organization3'];?></textarea>
+                </div>
+                   <div class="form-group float-label-control">
+                    <label for="">Institution and Details</label>
+                    <textarea class="form-control" placeholder="<?php echo $rws['user_subject'];?>" rows="2" placeholder="<?php echo $rws['user_subject'];?>" name="user_subject" value="<?php echo $rws['user_subject'];?>"><?php echo $rws['user_subject'];?></textarea>
+                </div>
+                   <div class="form-group float-label-control">
+                    <textarea class="form-control" placeholder="<?php echo $rws['user_subject2'];?>" rows="2" placeholder="<?php echo $rws['user_subject2'];?>" name="user_subject2" value="<?php echo $rws['user_subject2'];?>"><?php echo $rws['user_subject2'];?></textarea>
+                </div>
+                   <div class="form-group float-label-control">
+                
+                    <textarea class="form-control" placeholder="<?php echo $rws['user_subject3'];?>" rows="2" placeholder="<?php echo $rws['user_subject3'];?>" name="user_subject3" value="<?php echo $rws['user_subject3'];?>"><?php echo $rws['user_subject3'];?></textarea>
                 </div>
                 
             </div>
