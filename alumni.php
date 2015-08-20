@@ -13,22 +13,11 @@ Every year on last Sunday of February an annual reunion function is organized in
 
 </p></br>
 
-            <table width="660" border="0" cellspacing="0" cellpadding="0">
    
-                  <p><font color= "Brown"><strong>Eminent Alumni are</strong></font></p>
+                  <p><font color= "Brown"><strong><h4>College Alumni Reports since 2010-2011</h3></strong></font></p>
 
-                    <tbody>
-
-<tr>
-<td align="" width="75" valign="middle"><font color= "Black"><strong><b>Rishab Gulati, News X</b></Strong></Font></td>
-<td align="" width="75" valign="middle"><font color= "Black"><strong><b>Rahul Kanwal, Headlines Today</b></Strong></Font></td>
-<td align="" width="75" valign="middle"><font color= "Black"><strong><b>Mayur Paul, Helpage India London</b></Strong></Font></td>
-</tr>
-                     </tbody>
-                </table>
 
 <br>
-<br><br><br>
 
 
 

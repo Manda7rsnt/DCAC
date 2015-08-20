@@ -74,7 +74,41 @@ li a:link, a:visited {
 body {
 	background-image: url("textures/light_wool.png");
 }
+        
+        
+        
+::-webkit-scrollbar {
+	width: 8px;
+}
 
+::-webkit-scrollbar-track {
+	background-color: #121212;
+} 
+
+::-webkit-scrollbar-thumb {
+	background-color: #f85c37;
+	-webkit-border-radius: 2px;
+	   -moz-border-radius: 2px;
+	    -ms-border-radius: 2px;
+		 -o-border-radius: 2px;
+			border-radius: 2px;
+} 
+
+::-webkit-scrollbar-button {
+	display: none;
+} 
+
+::-webkit-scrollbar-corner {
+	background-color: #000000;
+}
+
+#scrollUp {
+	bottom: 20px;
+	right: 20px;
+	height: 38px;  /* Height of image */
+	width: 38px; /* Width of image */
+	background: url(../img/top.png) no-repeat;
+}
         <!---->
         <!---->
         
