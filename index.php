@@ -141,41 +141,11 @@ opacity: 0;
                                         <em></em></a></li>
 </ul>
                 
-<div class="tab-content col-md-10">
+<div class="tab-content col-md-12">
         <div class="tab-pane active" id="tab_a">
-             <h4>Pane A</h4>
-            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames
-                ac turpis egestas.</p>
-        </div>
-        <div class="tab-pane" id="tab_b">
-             <h4>Pane B</h4>
-            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames
-                ac turpis egestas.</p>
-        </div>
-        <div class="tab-pane" id="tab_c">
-             <h4>Pane C</h4>
-            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames
-                ac turpis egestas.</p>
-        </div>
-</div><!-- tab content -->
-</div>
-</div>
-            
-
-               <div id="tabs" class="tabs">
-    <nav>
-        <ul>
-            <li><a href="#section-1" class="icon-shop"><span>ABOUT COLLEGE</span></a></li>
-            <li><a href="#section-2" class="icon-cup"><span>STUDENT ZONE</span></a></li>
-            <li><a href="#section-3" class="icon-food"><span>FACULTY ZONE</span></a></li>
-        </ul>
-    </nav>
-
-    <div class="content">
-        <section id="section-1">
             <div class="mediabox">
                 <img src="" alt="img01" />
-                <h3><a href="">Governing Body</a>></h3>
+                <h3><a href="">Governing Body</a></h3>
              </div>
             <div class="mediabox">
                 <img src="" alt="img02" />
@@ -185,12 +155,11 @@ opacity: 0;
                 <img src="" alt="img03" />
                 <h3><a href="">Facilities</a></h3>
                 </div>
-        </section>
-
-        <section id="section-2">
-            <div class="mediabox">
+        </div>
+        <div class="tab-pane" id="tab_b">
+             <div class="mediabox">
                 <img src="" alt="img01" />
-                <h3><a href="">Attendance</a>></h3>
+                <h3><a href="">Attendance</a></h3>
              </div>
             <div class="mediabox">
                 <img src="" alt="img02" />
@@ -212,10 +181,9 @@ opacity: 0;
                 <img src="" alt="img03" />
                 <h3><a href="timetable.php">Friday School of Economics</a></h3>
                 </div>
-        </section>
-
-        <section id="section-3">
-            <div class="mediabox">
+        </div>
+        <div class="tab-pane" id="tab_c">
+             <div class="mediabox">
                 <img src="" alt="img01" />
                 <h3><a href="">Department</a></h3>
              </div>
@@ -227,9 +195,12 @@ opacity: 0;
                 <img src="" alt="img03" />
                 <h3><a href="">Achievement</a></h3>
                 </div>
-        </section>
         </div>
-        </div>
+</div><!-- tab content -->
+</div>
+</div>
+            
+
 
         <script src="js/cbpFWTabs.js"></script>
 <script>

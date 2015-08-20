@@ -7,7 +7,7 @@ require('header.php');
     $result = mysqli_query($database,$sql) or die(mysqli_error()); 
 
 $num =0;
-echo"<div class='body' >";
+echo"<div class='body'>";
 
 while ($row = mysqli_fetch_array($result))  
 {
@@ -70,8 +70,8 @@ while ($row = mysqli_fetch_array($result))
     echo "<td>".$count."</td>";
     echo '<td>'.'<a href="profiles/faculty-profile.php?id='.$id.'">'.$row["user_prefix"].' '.$row["user_firstname"].
         ' '.$row["user_lastname"].'</a></td>';
-    
     echo '<td>'.$row["user_profession"].'</td>' ;
+   
     echo '</tr>';
     $department2=$row["user_papers"];
     

@@ -149,8 +149,9 @@ body {
                                 </li>
                                 <!--<li><a href="faculty.php"></a>Faculty</li>-->
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle = "dropdown">People<b class="caret"></b></a>
+                                    <a href="faculty.php" class="dropdown-toggle" data-toggle = "dropdown">People<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
+                                        <li> <a href="faculty.php" > Faculty</a></li>
                                         <li> <a href="AdministrativeStaff.php" > Administrative Staff</a></li>
                                         <li> <a href = "student.php" > Student</a></li>
 
