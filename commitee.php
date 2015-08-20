@@ -3,7 +3,7 @@
 <div class="col-md-12"><!-- container -->
 
 
-<div class="wrapper col4" >
+<div class="wrapper col-md-4" >
 
 <div id="container" align="left">
     <div id="hpage">
@@ -51,7 +51,7 @@
   </div>
 </div>
 
-</div><div class="wrapper col4">
+<div class="wrapper col-md-4">
   <div id="container" align="left">
     <div id="hpage">
       <ul>
@@ -74,6 +74,7 @@
  
         </li>
         <li >
+         <br>
           <p style="font-weight: bold; color: #FF6600;">PROVIDENT FUND COMMITTEE</p>
          <div class="imgholder"><a href="#"><img src="images/commitee/pfc.jpg" alt="" width="200" height="70" /></a></div>
           <p style="color:#000000">
@@ -81,6 +82,7 @@
                   2.	Mrs. Archana Jain       <br />
                   3.	Mrs. Rashmi Sharma</p>
         </li>
+        <br><br>
         <li class="last">
           <p style="font-weight: bold; color: #FF6600;">GIRLS COMMON ROOM </p>
           <div class="imgholder"><a href="#"><img src="images/commitee/gcrc.jpg" alt="" width="200" height="70" /></a></div>
@@ -95,7 +97,7 @@
     </div>
   </div>
 </div>
-<div class="wrapper col4">
+<div class="wrapper col-md-4">
   <div id="container" align="left">
     <div id="hpage">
       <ul>
@@ -137,7 +139,7 @@
  </div>
  </div>
  </div>
-<div class="wrapper col4" >
+<div class="wrapper col-md-4" >
   <div id="container" align="left">
     <div id="hpage">
       <ul>
@@ -189,7 +191,7 @@
 </div>
 
 
-<div class="wrapper col4">
+<div class="wrapper col-md-4">
   <div id="container" align="left">
     <div id="hpage">
       <ul>
@@ -201,6 +203,7 @@
           </p>
                 
         </li>
+        <br>
         <li >
            <p style="font-weight: bold; color: #FF6600;"> ACADEMIC EXECUTIVE </p>
          <div class="imgholder"><a href="#"><img src="images/commitee/aec.jpg" alt="" width="200" height="70" /></a></div>
@@ -228,7 +231,7 @@
     </div>
   </div>
 </div>
-<div class="wrapper col4">
+<div class="wrapper col-md-4">
   <div id="container" align="left">
     <div id="hpage">
       <ul>

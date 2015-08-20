@@ -7,7 +7,7 @@
 
                   
      
-     <p>Right To Information</p>
+     <h1>Right To Information</h1>
                
             <table class ="table ">
                <thead>

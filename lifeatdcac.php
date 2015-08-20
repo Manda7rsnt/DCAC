@@ -4,8 +4,8 @@
 
 
 
-<img class="imgr" src="images/photo%20gallery/lifeatdcac.jpg" alt="" width="950" height="200" />
-
+<img class="imgr img-responsive center-block" src="images/photo%20gallery/lifeatdcac.jpg" alt="" width="950" height="200" />
+<h2 class="text-center">Life at DCAC</h1> <br>
 <p><strong>Auditorium</strong> :<br />
               The College has an auditorium  that is always abuzz with activities. The auditorium plays host to inter  college as well as intra college competitions, events, guest lectures,  seminars, farewell and fresher celebrations.</p>
             <p><strong>Library : </strong><br />
