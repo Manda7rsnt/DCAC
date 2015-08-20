@@ -16,6 +16,12 @@
         <link href="js/audioplayer/audioplayer.css" rel="stylesheet" type="text/css"><!-- Audioplayer -->
         <link href="css/style.css" rel="stylesheet" type="text/css"><!-- theme styles -->
         <link href="css/nav-tabs.css" rel="stylesheet" type="text/css"><!-- theme styles -->
+            <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/prism.css" rel="stylesheet" />
+    <link href="assets/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
 
     </head>
     
@@ -58,7 +64,7 @@ header{
 }
 
 .bg-color{
-  background-color: #BDC3C7;
+  background-color: #ffffff;
 }
 
 li a:link, a:visited {

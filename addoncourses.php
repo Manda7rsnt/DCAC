@@ -2,7 +2,7 @@
 ?>
 <div class="col-md-12"><!-- container -->
 
-<img class="imgr" src="images/photo%20gallery/courses.jpg" alt="" width="950" height="200" />
+<img class="imgr img-responsive center-block" src="images/photo%20gallery/courses.jpg" alt="" width="950" height="200" />
 
 
 <br><br><br><br><br><br>

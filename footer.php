@@ -178,6 +178,8 @@ setInterval (function(){ ticker(); }, 3000);
 
             <!-- Theme -->
             <script src="js/theme.js"></script>
+            
+            
 
             </body>
      

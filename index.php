@@ -144,11 +144,11 @@ opacity: 0;
 <div class="tab-content col-md-12">
         <div class="tab-pane active" id="tab_a">
             <div class="mediabox">
-                <img src="images/photo gallery/govbody.png" alt="img01" />
+                <img src="images/photo gallery/govbody.png" class="img-responsive center-block" alt="img01" />
                 <h3><a href="governingbody.php">Governing Body</a></h3>
              </div>
             <div class="mediabox">
-                <img src="images/photo gallery/activities.png" alt="img02" />
+                <img src="images/photo gallery/activities.png" class="img-responsive center-block" alt="img02" />
                 <h3><a href="student.php">Activities</a></h3>
                 </div>
             <div class="mediabox">
@@ -370,64 +370,12 @@ function( window ) {
                     <div class="col-lg-4 col-md-4" ><!-- recent news wrapper -->
 
                         <div class="col-padded col-shaded" ><!-- inner custom column -->
-                            <div class="ticker" >
-
-                            <ul class="list-unstyled clear-margins"><!-- widgets -->
-
-                                <li class="widget-container widget_recent_news"><!-- widgets list -->
+                            
+                            
 
                                     <h1 class="title-widget">What's New @ DCAC</h1>
-
-                                    <ul class="list-unstyled" id="ticker"  >
-                                    <!--
-                                    <marquee onmouseover="this.stop();" onmouseout="this.start();" scrollamount="3.5" 
-scrolldelay="10" direction="up" width="" height="350" top="0" bottom="" left="0" class="newstext" > -->
-
-                                        <li class="recent-news-wrap">
-
-                                            <h1 class="title-median"><a href="allPDFs/Format.pdf" title="Megan Boyle flourishes...">Course wise data of all Admitted Candidates in the College.
-</a></h1>
-                                        </li>
-
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="allPDFs/MassMedia.pdf" title="Megan Boyle flourishes...">Course & Category-wise vacant postion as on 17.08.2015.</a></h1>
-                                        </li>
-
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="allPDFs/Vacant_Position.pdf" title="News-Ticker1">Notice for Students of Add-on Certificate Courses in Spanish , German and French and Diploma Courses in Spanish.</a></h1>
-                                        </li>
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="allPDFs/Notice_English.pdf" title="News-Ticker2">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of English (01-UR and 01-OBC Category).</a></h1>
-                                        </li>
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="allPDFs/Notice_History.pdf" title="News-Ticker3">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of History (01-UR Category).</a></h1>
-                                        </li>
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker4">Under Graduate Twelfth cutoff List.</a></h1>
-                                        </li>
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker5">Notice for Foundantion Course (for 2 Yrs Students).</a></h1>
-                                        </li>
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker6">Download Examination Form For Semester3Y.</a></h1>
-                                        </li>
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker6">Download Examination Form For Semester3Y (Erstwhile - FYUP).</a></h1>
-                                        </li>
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker6">Hostel facility for Girl/Boy students beloning to SC/ST/OBC/minorities category.</a></h1>
-                                        </li>
-                                        <li class="recent-news-wrap">
-                                            <h1 class="title-median"><a href="" title="News-Ticker6">Last date has been Extended for English Language Proficiency Course - Details and Form</a></h1>
-                                        </li>
-
-                                    </ul>
-
-                                </li><!-- widgets list end -->
-
-                            </ul><!-- widgets end -->
-                            </div>
-
+                                    <iframe src="ticker.php" frameborder="0" class="span6"
+           style="height: 490px;width: 100%; " border="0" cellspacing="0"></iframe>
                         </div><!-- inner custom column end -->
 
                     </div><!-- recent news wrapper end -->
@@ -435,18 +383,18 @@ scrolldelay="10" direction="up" width="" height="350" top="0" bottom="" left="0"
                 </div><!-- row end -->
 
                 <div class="row">
-  <div class="col-xs- col-md-4">
-    <a href="timetable.php" class="thumbnail">
-      <img src="images/photo gallery/Timetable.jpg" alt="Time Table">
-    </a>
-  </div>
+  
 
   <div class="col-xs- col-md-4">
     <a href="Cut-off-list.php" class="thumbnail">
       <img src="images/photo gallery/a2.jpg" alt="Cut-Off List">
     </a>
   </div>
-
+<div class="col-xs- col-md-4">
+    <a href="timetable.php" class="thumbnail">
+      <img src="images/photo gallery/Timetable.jpg" alt="Time Table">
+    </a>
+  </div>
   <div class="col-xs- col-md-4">
     <a href="allPDFs/Anti_Ragging.pdf" class="thumbnail">
       <img src= "images/photo gallery/p33.jpg" alt="anti-ragging">

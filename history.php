@@ -4,8 +4,8 @@
 
 
 
-<img class="imgr" src="images/photo%20gallery/2.gif" alt="" width="950" height="200" /><br><br>
-
+<img class="imgr img-responsive center-block" src="images/photo%20gallery/2.gif" alt="" width="950" height="200" /><br>
+<h2 class="text-center">History</h1>
  <p style="color:#000000">The Delhi College of Arts &amp; Commerce was the pioneer college to introduce a three year honours programme in July-August 1989. In the modern world, press and media are important organs of a democratic and free society. Journalism is meant to establish and open communication of information and material available for the benefit of society. The accelerated face of media growth and development has enhanced the need for qualified professionals in the country.<br />
           <br />
 The syllabus of the course is designed to equip the students with an intellectual and inter-disciplinary approach essential for the profession. The course aims to strike a balance between the theoretical approach to the field and close interaction with emitnent journalists to enable them to create a foyer in the market of contention.<br />

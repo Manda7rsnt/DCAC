@@ -3,7 +3,7 @@
 <div class="col-md-12">
 
 
-<img class="imgr" src="images/photo%20gallery/pd.jpg" alt="" width="950" height="200" /><br><br>
+<img class="imgr img-responsive center-block" src="images/photo%20gallery/pd.jpg" alt="" width="950" height="200" /><br><br>
 
 
  <p style="color:#000000">Delhi College of Arts and Commerce is a premier educational institution since 1987 that provides a platform for nurturing talent by stimulating them to pursue excellence.  The college has made consistent progress year by year in academic and curricular activities.  The College caters to more than 2500 students and is considered among the best and most sought after colleges in University of Delhi.  The College is fortunate to have talented and highly committed faculty who follow the motto &quot;explore, research and achieve&quot;.  The members of non-teaching staff are highly dedicated with total commitment towards achievement of academic and other goals.<br /></p>

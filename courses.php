@@ -4,7 +4,7 @@
 
 
 
-<img class="imgr" src="images/photo%20gallery/courses.jpg" alt="" width="950" height="200" />
+<img class="imgrimg-responsive center-block" src="images/photo%20gallery/courses.jpg" alt="" width="950" height="200" />
 
 <p>Delhi College of Arts and  Commerce is a co-educational constituent College of the University of Delhi.  Situated in Netaji Nagar, the College is unique in may respects and offers some  courses like  Commerce, Economics, English, History, Journalism and Political Science, courses. Apart from that it has achieved rare distinctions in  sports and N.C.C <strong>Many of its NCC Cadets  and Sportsmen have distinguished themselves in their respective fields</strong>. The  College has a well qualified and academically distinguished teaching staff who  have over the years maintained an excellent rapport with the students.</p><br>
 
