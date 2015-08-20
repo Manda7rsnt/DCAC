@@ -8,6 +8,7 @@ require('header.php');
 
 $num =0;
 echo"<div class='body' >";
+
 while ($row = mysqli_fetch_array($result))  
 {
     
@@ -75,11 +76,16 @@ while ($row = mysqli_fetch_array($result))
     $department2=$row["user_papers"];
     
 }
+  echo ' </tbody>
+            </table>';
+echo "</div>";
+echo "</div>";
 echo "</div>";
 
 
 
 ?>
+
 <?php 
     include 'footer.php';
 ?>

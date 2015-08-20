@@ -101,7 +101,66 @@
                 </div><!-- row end --><br>
                 <!--8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888-->
                 
+<style>
+.fade {
+opacity: 0;
+-webkit-transition: opacity 2.25s linear;
+  -moz-transition: opacity 2.25s linear;
+   -ms-transition: opacity 2.25s linear;
+	-o-transition: opacity 2.25s linear;
+	   transition: opacity 2.25s linear;
+}
+</style>
+               
+               <div class="row">
+               <div class="text-center">
+                   <div class="col-md-3"></div>
+                   
+<ul class="nav nav-pills list-unstyled clear-margins ">
+ 
+  <li class="active"><a href="#tab_a" class="custom-button cb-green " title="About College" data-toggle="pill">
+  <i class="custom-button-icon fa fa-check-square-o"></i>
+                                        <span class="custom-button-wrap">
+                                            <span class="custom-button-title">Inside DCAC</span>
+                                            <span class="custom-button-tagline">The DCAC</span>
+                                        </span>
+                                        <em></em>
+      </a></li>
 
+  <li><a href="#tab_b" data-toggle="pill" class="custom-button cb-gray" title="faculty"><i class="custom-button-icon fa  fa-play-circle-o"></i>
+                                        <span class="custom-button-wrap">
+                                            <span class="custom-button-title" >Faculty Zone</span>
+                                            <span class="custom-button-tagline" >Know your Gurus</span>
+                                        </span>
+                                        <em></em></a></li>
+  <li><a href="#tab_c" data-toggle="pill" class="custom-button cb-yellow" title="Students"><i class="custom-button-icon fa  fa-leaf"></i>
+                                        <span class="custom-button-wrap">
+                                            <span class="custom-button-title">Student Zone</span>
+                                            <span class="custom-button-tagline">Academics at DCAC</span>
+                                        </span>
+                                        <em></em></a></li>
+</ul>
+                
+<div class="tab-content col-md-10">
+        <div class="tab-pane active" id="tab_a">
+             <h4>Pane A</h4>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames
+                ac turpis egestas.</p>
+        </div>
+        <div class="tab-pane" id="tab_b">
+             <h4>Pane B</h4>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames
+                ac turpis egestas.</p>
+        </div>
+        <div class="tab-pane" id="tab_c">
+             <h4>Pane C</h4>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames
+                ac turpis egestas.</p>
+        </div>
+</div><!-- tab content -->
+</div>
+</div>
+            
 
                <div id="tabs" class="tabs">
     <nav>
