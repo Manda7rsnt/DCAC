@@ -129,14 +129,14 @@ opacity: 0;
 
   <li><a href="#tab_b" data-toggle="pill" class="custom-button cb-gray" title="faculty"><i class="custom-button-icon fa  fa-play-circle-o"></i>
                                         <span class="custom-button-wrap">
-                                            <span class="custom-button-title" >Faculty Zone</span>
-                                            <span class="custom-button-tagline" >Know your Gurus</span>
+                                            <span class="custom-button-title" >Student Zone</span>
+                                            <span class="custom-button-tagline" >Academics at DCAC</span>
                                         </span>
                                         <em></em></a></li>
   <li><a href="#tab_c" data-toggle="pill" class="custom-button cb-yellow" title="Students"><i class="custom-button-icon fa  fa-leaf"></i>
                                         <span class="custom-button-wrap">
-                                            <span class="custom-button-title">Student Zone</span>
-                                            <span class="custom-button-tagline">Academics at DCAC</span>
+                                            <span class="custom-button-title">Faculty Zone</span>
+                                            <span class="custom-button-tagline">Know your Gurus</span>
                                         </span>
                                         <em></em></a></li>
 </ul>
@@ -144,61 +144,62 @@ opacity: 0;
 <div class="tab-content col-md-12">
         <div class="tab-pane active" id="tab_a">
             <div class="mediabox">
-                <img src="" alt="img01" />
-                <h3><a href="">Governing Body</a></h3>
+                <img src="images/photo gallery/govbody.png" alt="img01" />
+                <h3><a href="governingbody.php">Governing Body</a></h3>
              </div>
             <div class="mediabox">
-                <img src="" alt="img02" />
-                <h3><a href="">Activities</a></h3>
+                <img src="images/photo gallery/activities.png" alt="img02" />
+                <h3><a href="student.php">Activities</a></h3>
                 </div>
             <div class="mediabox">
-                <img src="" alt="img03" />
-                <h3><a href="">Facilities</a></h3>
+                <img src="images/photo gallery/facilities.gif" alt="img03" />
+                <h3><a href="lifeatdcac.php">Facilities</a></h3>
                 </div>
         </div>
         <div class="tab-pane" id="tab_b">
              <div class="mediabox">
-                <img src="" alt="img01" />
-                <h3><a href="">Attendance</a></h3>
+                <img src="images/photo gallery/attendance1.png" alt="img01" />
+                <h3><a href="attendance.php">Attendance</a></h3>
              </div>
             <div class="mediabox">
-                <img src="" alt="img02" />
-                <h3><a href="">Courses and Syllabus</a></h3>
+                <img src="images/photo gallery/syllabus.png" alt="img02" />
+                <h3><a href="courses.php">Courses and Syllabus</a></h3>
                 </div>
             <div class="mediabox">
-                <img src="" alt="img03" />
+                <img src="images/photo gallery/Timetable.jpg" alt="img03" />
                 <h3><a href="timetable.php">Time Table</a></h3>
                 </div>
                 <div class="mediabox">
-                <img src="" alt="img03" />
-                <h3><a href="timetable.php">Previous Year Q.Papers</a></h3>
+                <img src="images/photo gallery/preyearqp.jpg" alt="img03" />
+                <h3><a href="#">Previous Year Q.Papers</a></h3>
                 </div>
                 <div class="mediabox">
-                <img src="" alt="img03" />
-                <h3><a href="timetable.php">Internal Assessment</a></h3>
+                <img src="images/photo gallery/internalassesment.png" alt="img03" />
+                <h3><a href="#">Internal Assessment</a></h3>
                 </div>
                 <div class="mediabox">
-                <img src="" alt="img03" />
-                <h3><a href="timetable.php">Friday School of Economics</a></h3>
+                <img src="images/photo gallery/FSE.gif" alt="img03" />
+                <h3><a href="#">Friday School of Economics</a></h3>
                 </div>
         </div>
         <div class="tab-pane" id="tab_c">
              <div class="mediabox">
-                <img src="" alt="img01" />
+                <img src="images/photo gallery/department.jpg" alt="img01" />
                 <h3><a href="">Department</a></h3>
              </div>
             <div class="mediabox">
-                <img src="" alt="img02" />
+                <img src="images/photo gallery/profile.png" alt="img02" />
                 <h3><a href="">Profile</a></h3>
                 </div>
             <div class="mediabox">
-                <img src="" alt="img03" />
+                <img src="images/photo gallery/achievement.png" alt="img03" />
                 <h3><a href="">Achievement</a></h3>
                 </div>
         </div>
 </div><!-- tab content -->
 </div>
 </div>
+<br><br><br>
             
 
 
@@ -342,7 +343,7 @@ function( window ) {
                                 <li class="widget-container widget_text"><!-- widget -->
                                 
 
-                                <img src="img/DCAC1.png"><br><br>
+                                <img src="images/photo gallery/aboutcollege.gif"><br><br>
                                 <p>
                                     " Delhi College of Arts & Commerce, premier higher educational institution, 
                                     imparts holistic professional and vocational education. 
@@ -436,7 +437,7 @@ scrolldelay="10" direction="up" width="" height="350" top="0" bottom="" left="0"
                 <div class="row">
   <div class="col-xs- col-md-4">
     <a href="timetable.php" class="thumbnail">
-      <img src="images/photo gallery/TT.gif" alt="Time Table">
+      <img src="images/photo gallery/Timetable.jpg" alt="Time Table">
     </a>
   </div>
 
