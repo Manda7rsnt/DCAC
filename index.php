@@ -140,8 +140,9 @@ opacity: 0;
                                         </span>
                                         <em></em></a></li>
 </ul>
+               <div class="col-md-1"></div>
                 
-<div class="tab-content col-md-12">
+<div class="tab-content col-md-10">
         <div class="tab-pane active" id="tab_a">
             <div class="mediabox">
                 <img src="images/photo gallery/govbody.png" class="img-responsive center-block" alt="img01" />
