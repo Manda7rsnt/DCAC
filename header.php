@@ -46,7 +46,7 @@
 
 .university{
   text-align: left;
-  color: #3C566C;
+  font-color: #f85c37;
   font-family: 'Raleway';
   font-size: 28px;
   font-weight: 600;
@@ -67,10 +67,6 @@ header{
   background-color: #ffffff;
 }
 
-li a:link, a:visited {
-    color:  #22313F;
-    text-decoration: none;
-}
 body {
 	background-image: url("textures/light_wool.png");
 }

@@ -127,7 +127,7 @@
 
                             <p class="copy-text text-inverse">
                                 &copy; 2015 Delhi College of Arts and Commerce. All rights reserved.<br>
-                                Developed & Maintained by <a href="#">COFFEE COMRADES</a>
+                                Developed by <a href="http://coffeecomrades.in/" style="color:#f85c37">COFFEE COMRADES</a>
                             </p>
 
                         </div>

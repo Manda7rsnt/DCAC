@@ -208,14 +208,14 @@
                 </div>
                    <div class="form-group float-label-control">
                     <label for="">Institution and Details</label>
-                    <textarea class="form-control" placeholder="Name of the institution & yor research area/Specialization" rows="2" placeholder="<?php echo $rws['user_subject'];?>" name="user_subject" value="<?php echo $rws['user_subject'];?>"><?php echo $rws['user_subject'];?></textarea>
+                    <textarea class="form-control" placeholder="Name of the institution & your research area/Specialization" rows="2" placeholder="<?php echo $rws['user_subject'];?>" name="user_subject" value="<?php echo $rws['user_subject'];?>"><?php echo $rws['user_subject'];?></textarea>
                 </div>
                    <div class="form-group float-label-control">
-                    <textarea class="form-control" placeholder="Name of the institution & yor research area/Specialization" rows="2" placeholder="<?php echo $rws['user_subject2'];?>" name="user_subject2" value="<?php echo $rws['user_subject2'];?>"><?php echo $rws['user_subject2'];?></textarea>
+                    <textarea class="form-control" placeholder="Name of the institution & your research area/Specialization" rows="2" placeholder="<?php echo $rws['user_subject2'];?>" name="user_subject2" value="<?php echo $rws['user_subject2'];?>"><?php echo $rws['user_subject2'];?></textarea>
                 </div>
                    <div class="form-group float-label-control">
                 
-                    <textarea class="form-control" placeholder="Name of the institution & yor research area/Specialization" rows="2" placeholder="<?php echo $rws['user_subject3'];?>" name="user_subject3" value="<?php echo $rws['user_subject3'];?>"><?php echo $rws['user_subject3'];?></textarea>
+                    <textarea class="form-control" placeholder="Name of the institution & your research area/Specialization" rows="2" placeholder="<?php echo $rws['user_subject3'];?>" name="user_subject3" value="<?php echo $rws['user_subject3'];?>"><?php echo $rws['user_subject3'];?></textarea>
                 </div>
                 
             </div>
