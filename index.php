@@ -376,7 +376,7 @@ function( window ) {
 
                                     <h1 class="title-widget">What's New @ DCAC</h1>
                                     <iframe src="ticker.php" frameborder="0" class="span6"
-           style="height: 490px;width: 100%; " border="0" cellspacing="0"></iframe>
+           style="height: 452px;width: 100%; " border="0" cellspacing="0"></iframe>
                         </div><!-- inner custom column end -->
 
                     </div><!-- recent news wrapper end -->

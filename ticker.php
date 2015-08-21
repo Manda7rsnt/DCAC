@@ -9,40 +9,40 @@
 		                <ul id="nt-example1">
 		                <li >
 
-                                            <a href="allPDFs/Format.pdf" title="Megan Boyle flourishes...">Course wise data of all Admitted Candidates in the College.
+                                            <a target="_parent" href="allPDFs/Format.pdf" title="Megan Boyle flourishes...">Course wise data of all Admitted Candidates in the College.
 </a><
                                         </li>
 
                                         <li>
-                                           <a href="allPDFs/MassMedia.pdf" title="Megan Boyle flourishes...">Course & Category-wise vacant postion as on 17.08.2015.</a>
+                                           <a target="_parent" href="allPDFs/MassMedia.pdf" title="Megan Boyle flourishes...">Course & Category-wise vacant postion as on 17.08.2015.</a>
                                         </li>
 
                                         <li >
-                                            <a href="allPDFs/Vacant_Position.pdf" title="News-Ticker1">Notice for Students of Add-on Certificate Courses in Spanish , German and French and Diploma Courses in Spanish.</a>
+                                            <a target="_parent" href="allPDFs/Vacant_Position.pdf" title="News-Ticker1">Notice for Students of Add-on Certificate Courses in Spanish , German and French and Diploma Courses in Spanish.</a>
                                         </li>
                                         <li >
-                                            <a href="allPDFs/Notice_English.pdf" title="News-Ticker2">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of English (01-UR and 01-OBC Category).</a>
+                                            <a target="_parent" href="allPDFs/Notice_English.pdf" title="News-Ticker2">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of English (01-UR and 01-OBC Category).</a>
                                         </li>
                                         <li >
-                                            <a href="allPDFs/Notice_History.pdf" title="News-Ticker3">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of History (01-UR Category).</a>
+                                            <a target="_parent" href="allPDFs/Notice_History.pdf" title="News-Ticker3">Notice for the Appointment of Assistant Professor on Ad-hoc Basis in the Department of History (01-UR Category).</a>
                                         </li>
                                         <li >
-                                            <a href="" title="News-Ticker4">Under Graduate Twelfth cutoff List.</a>
+                                            <a target="_parent" href="" title="News-Ticker4">Under Graduate Twelfth cutoff List.</a>
                                         </li>
                                         <li >
-                                            <a href="" title="News-Ticker5">Notice for Foundantion Course (for 2 Yrs Students).</a>
+                                            <a target="_parent" href="" title="News-Ticker5">Notice for Foundantion Course (for 2 Yrs Students).</a>
                                         </li>
                                         <li >
-                                            <a href="" title="News-Ticker6">Download Examination Form For Semester3Y.</a>
+                                            <a target="_parent" href="" title="News-Ticker6">Download Examination Form For Semester3Y.</a>
                                         </li>
                                         <li>
-                                            <a href="" title="News-Ticker6">Download Examination Form For Semester3Y (Erstwhile - FYUP).</a><
+                                            <a target="_parent" href="" title="News-Ticker6">Download Examination Form For Semester3Y (Erstwhile - FYUP).</a><
                                         </li>
                                         <li>
-                                            <a href="" title="News-Ticker6">Hostel facility for Girl/Boy students beloning to SC/ST/OBC/minorities category.</a><
+                                            <a target="_parent" href="" title="News-Ticker6">Hostel facility for Girl/Boy students beloning to SC/ST/OBC/minorities category.</a><
                                         </li>
                                         <li >
-                                            <a href="" title="News-Ticker6">Last date has been Extended for English Language Proficiency Course - Details and Form</a><
+                                            <a target="_parent" href="" title="News-Ticker6">Last date has been Extended for English Language Proficiency Course - Details and Form</a><
                                         </li>
 		                </ul>
 		                <i class="fa fa-arrow-down" id="nt-example1-next"></i>
@@ -81,13 +81,13 @@
             var nt_title = $('#nt-title').newsTicker({
                 row_height: 40,
                 max_rows: 1,
-                duration: 3000,
+                duration: 2000,
                 pauseOnHover: 0
             });
             var nt_example1 = $('#nt-example1').newsTicker({
                 row_height: 80,
                 max_rows: 5,
-                duration: 4000,
+                duration: 2000,
                 prevButton: $('#nt-example1-prev'),
                 nextButton: $('#nt-example1-next')
             });
